@@ -13,7 +13,12 @@ body {
     background-color: #f4f4f4;
     color: #333;
 }
-
+h2 a {
+    color: #333;
+}
+h2 a:hover {
+    color: orange;
+}
 header {
     background-color: #333;
     color: #fff;
@@ -35,7 +40,9 @@ nav ul li a {
     color: #fff;
     font-weight: bold;
 }
-
+nav ul li a:hover {
+    color: orange;
+}
 .hero {
     background-image: url('hero-image.jpg');
     background-size: cover;
