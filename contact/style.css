@@ -39,7 +39,9 @@ nav ul li a {
     color: #fff;
     font-weight: bold;
 }
-
+nav ul li a:hover {
+    color: orange;
+}
 .contact,
 .signup {
     max-width: 800px;

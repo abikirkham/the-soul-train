@@ -36,7 +36,9 @@ nav ul li a {
     color: #fff;
     font-weight: bold;
 }
-
+nav ul li a:hover {
+    color: orange;
+}
 .classes {
     max-width: 800px;
     margin: 0 auto;
