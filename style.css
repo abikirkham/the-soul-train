@@ -7,7 +7,7 @@ p {
     padding: 0;
 }
  body {
-            background-image: url('https://i.ibb.co/n01k1gq/Untitled.png');
+            background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
             background-size: cover; 
             
         }
@@ -85,7 +85,6 @@ nav ul li a:hover {
     max-width: 800px; /* Optional: Set a maximum width for larger screens */
     margin: 0 auto;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    padding: 20px;
     background-color: #f4f4f4;
 }
 
