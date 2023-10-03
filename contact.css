@@ -21,21 +21,15 @@ body {
     background-color: #f4f4f4;
     color: #333;
 }
-.container {
-    width: 90%;
-    max-width: 950px; /* Optional: Set a maximum width for larger screens */
-    margin: 0 auto;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    padding: 20px;
-    background-color: #f4f4f4;
-}
 
 header {
     background-color: #333;
     color: #fff;
     padding: 10px 0;
 }
-
+.no-underline {
+    text-decoration: none;
+}
 nav ul {
     list-style: none;
     text-align: center;
@@ -54,6 +48,15 @@ nav ul li a {
 nav ul li a:hover {
     color: orange;
 }
+.container {
+    width: 90%;
+    max-width: 950px; /* Optional: Set a maximum width for larger screens */
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
 .contact,
 .signup {
     max-width: 800px;

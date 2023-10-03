@@ -9,13 +9,10 @@ li {
     margin: 0;
     padding: 0;
 }
+
 body {
-            background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
-            background-size: cover; 
-            
-        }
-/* Global styles */
-body {
+    background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
+    background-size: cover;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     color: #333;
@@ -42,19 +39,18 @@ nav ul li a {
     color: #fff;
     font-weight: bold;
 }
+
 nav ul li a:hover {
     color: orange;
 }
-.about {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-}
 
-.about h1 {
+/* Match the header size with the first HTML file */
+h1, .about h1 {
     font-size: 36px;
     margin-bottom: 20px;
 }
+
+/* Other styles remain the same */
 .container {
     width: 90%;
     max-width: 900px; /* Optional: Set a maximum width for larger screens */
@@ -64,6 +60,13 @@ nav ul li a:hover {
     background-color: #f4f4f4;
 }
 
+/* In about.css for the second HTML file (about.html) */
+.about h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+/* You can also add this style for consistency */
 .about h2 {
     font-size: 24px;
     margin-top: 20px;
@@ -74,6 +77,7 @@ nav ul li a:hover {
     margin-top: 15px;
 }
 
+
 .about ul {
     list-style: disc;
     margin-left: 20px;
@@ -82,6 +86,26 @@ nav ul li a:hover {
 
 .about ul li {
     margin-bottom: 10px;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
 }
 
 footer {
