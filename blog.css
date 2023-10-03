@@ -10,7 +10,6 @@ p {
             background-size: cover; 
             
         }
-/* Global styles */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -46,7 +45,7 @@ nav ul li a:hover {
 
 
 
-.container {
+.container{
     width: 90%;
     max-width: 900px; 
     margin: 0 auto;
@@ -55,6 +54,21 @@ nav ul li a:hover {
     background-color: #f4f4f4;
 }
 
+
+h3 a {
+    color: #333;
+    background-color: #f4f4f4;
+}
+h3 a:hover {
+    color: orange;
+}
+p a {
+    color: #333;
+    background-color: #f4f4f4;
+}
+p a:hover {
+    color: orange;
+}
 
 
 footer {

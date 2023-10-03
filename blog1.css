@@ -44,21 +44,6 @@ nav ul li a:hover {
     color: orange;
 }
 
-h3 a {
-    color: #333;
-    background-color: #f4f4f4;
-}
-h3 a:hover {
-    color: orange;
-}
-p a {
-    color: #333;
-    background-color: #f4f4f4;
-}
-p a:hover {
-    color: orange;
-}
-
 .container {
     width: 90%;
     max-width: 900px; 
