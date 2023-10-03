@@ -57,7 +57,7 @@ nav ul li a:hover {
 }
 .container {
     width: 90%;
-    max-width: 1450px; /* Optional: Set a maximum width for larger screens */
+    max-width: 900px; /* Optional: Set a maximum width for larger screens */
     margin: 0 auto;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     padding: 20px;
