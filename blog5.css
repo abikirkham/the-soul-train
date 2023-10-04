@@ -6,7 +6,16 @@ p {
     margin: 0;
     padding: 0;
 }
+#logo {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
 
+#logo:hover {
+    color: orange;
+}
 body {
     background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
     background-size: cover;

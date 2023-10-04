@@ -10,13 +10,22 @@ p {
             background-size: cover; 
             
         }
-/* Global styles */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     color: #333;
 }
+#logo {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
 
+#logo:hover {
+    color: orange;
+}
 header {
     background-color: #333;
     color: #fff;
