@@ -90,7 +90,10 @@ nav ul li a:hover {
     text-align: center;
 }
 
-
+h5 {
+    color: #fff;
+        background-color: none;
+}
 h3 a {
     color: #fff;
     background-color: none;
