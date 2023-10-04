@@ -87,19 +87,19 @@ nav ul li a:hover {
     background-color: rgba(51, 51, 51, 0.85);
 }
 
-.contact,
+
 .signup {
     max-width: 800px;
     margin: 0 auto;
 }
 
-.contact h1,
+
 .signup h2 {
     font-size: 36px;
     margin-bottom: 20px;
 }
 
-.contact p,
+
 .signup p {
     margin-bottom: 20px;
 }
