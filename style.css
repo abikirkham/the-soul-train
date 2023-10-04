@@ -23,10 +23,7 @@ body {
     margin-top: 60px;
 }
 
-body {
-    padding-top: 60px;
-    margin-top: 60px;
-}
+
 @media screen and (max-width: 768px) {
     body {
         padding-top: 100px;
