@@ -13,7 +13,11 @@ p {
     text-align: center;
     font-size: 52px;
 }
-
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
 #logo:hover {
     color: orange;
 }
@@ -26,7 +30,7 @@ body {
 /* Global styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: none;
     color: #333;
 }
 
@@ -66,7 +70,7 @@ nav ul li a:hover {
     margin: 0 auto;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: rgba(255, 255, 255, 0.85);
 }
 
 

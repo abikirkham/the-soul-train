@@ -12,7 +12,7 @@ p {
         }
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: none;
     color: #333;
 }
 
@@ -20,6 +20,11 @@ header {
     background-color: #333;
     color: #fff;
     padding: 10px 0;
+}
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
 }
 #logo {
     background-color: #333;
@@ -62,21 +67,21 @@ nav ul li a:hover {
     margin: 0 auto;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: rgba(255, 255, 255, 0.85);
     text-align: center;
 }
 
 
 h3 a {
     color: #333;
-    background-color: #f4f4f4;
+    background-color: none;
 }
 h3 a:hover {
     color: orange;
 }
 p a {
     color: #333;
-    background-color: #f4f4f4;
+    background-color: none;
 }
 p a:hover {
     color: orange;
