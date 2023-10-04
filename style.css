@@ -28,6 +28,7 @@ h2 a:hover {
         color: #fff;
         padding: 10px 0;
         text-align: center;
+        font-size: 52px;
 }
 #logo:hover {
     color: orange;
@@ -88,9 +89,9 @@ nav ul li a:hover {
     background-color: #f4f4f4;
 }
 
-.container1 {
+.container {
     width: 90%;
-    max-width: 950px; 
+    max-width: 900px; 
     margin: 0 auto;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     background-color: #f4f4f4;
