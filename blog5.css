@@ -33,7 +33,10 @@ body {
     background-color: none;
     color: #fff;
 }
-
+body {
+    padding-top: 60px;
+    margin-top: 60px;
+}
 header {
     position: fixed;
     top: 0;

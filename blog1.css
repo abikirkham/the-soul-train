@@ -16,6 +16,10 @@ body {
     background-color: none;
     color: #fff;
 }
+body {
+    padding-top: 60px;
+    margin-top: 60px;
+}
 #logo {
     background-color: #333;
     color: #fff;

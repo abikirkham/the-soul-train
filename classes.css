@@ -13,6 +13,10 @@ body {
     background-color: none;
     color: #fff;
 }
+body {
+    padding-top: 60px;
+    margin-top: 60px;
+}
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
