@@ -1,15 +1,19 @@
 body,
 h1,
 h2,
+h3,
 p {
     margin: 0;
     padding: 0;
 }
- body {
-            background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
-            background-size: cover; 
-            
-        }
+
+body {
+    background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
+    background-size: cover;
+
+}
+
+/* Global styles */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -21,9 +25,11 @@ header {
     color: #fff;
     padding: 10px 0;
 }
+
 .no-underline {
     text-decoration: none;
 }
+
 nav ul {
     list-style: none;
     text-align: center;
@@ -39,37 +45,20 @@ nav ul li a {
     color: #fff;
     font-weight: bold;
 }
+
 nav ul li a:hover {
     color: orange;
 }
 
-
-
-.container{
+.container {
     width: 90%;
-    max-width: 9000px; 
+    max-width: 900px;
     margin: 0 auto;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     padding: 20px;
     background-color: #f4f4f4;
-    text-align: center;
 }
 
-
-h3 a {
-    color: #333;
-    background-color: #f4f4f4;
-}
-h3 a:hover {
-    color: orange;
-}
-p a {
-    color: #333;
-    background-color: #f4f4f4;
-}
-p a:hover {
-    color: orange;
-}
 
 
 footer {
