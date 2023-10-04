@@ -21,6 +21,22 @@ header {
     color: #fff;
     padding: 10px 0;
 }
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.header-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
