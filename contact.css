@@ -29,7 +29,7 @@ body {
 }
 
 #logo:hover {
-    color: orange;
+    color: #BF879E;
 }
 
 #menu {
@@ -61,7 +61,7 @@ nav ul li a {
     font-weight: bold;
 }
 nav ul li a:hover {
-    color: orange;
+    color: #BF879E;
 }
 .container {
     width: 90%;

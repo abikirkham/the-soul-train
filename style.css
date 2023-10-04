@@ -21,7 +21,7 @@ h2 a {
     background-color: none;
 }
 h2 a:hover {
-    color: orange;
+    color: #BF879E;
 }
 #logo {
     background-color: #333;
@@ -31,7 +31,7 @@ h2 a:hover {
         font-size: 52px;
 }
 #logo:hover {
-    color: orange;
+    color: #BF879E;
 }
 #menu {
     font-size: 110%;
@@ -62,7 +62,7 @@ nav ul li a {
     font-weight: bold;
 }
 nav ul li a:hover {
-    color: orange;
+    color: #BF879E;
 }
 .hero {
     background-image: url('hero-image.jpg');

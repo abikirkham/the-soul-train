@@ -37,7 +37,7 @@ header {
 }
 
 #logo:hover {
-    color: orange;
+    color: #BF879E;
 }
 .no-underline {
     text-decoration: none;
@@ -60,7 +60,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: orange;
+    color: #BF879E;
 }
 
 
@@ -82,7 +82,7 @@ h3 a {
 }
 
 h3 a:hover {
-    color: orange;
+    color: #BF879E;
 }
 
 p a {
@@ -91,7 +91,7 @@ p a {
 }
 
 p a:hover {
-    color: orange;
+    color: #BF879E;
 }
 
 

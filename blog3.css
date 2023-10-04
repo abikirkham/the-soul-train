@@ -31,7 +31,7 @@ body {
     list-style-type: none;
 }
 #logo:hover {
-    color: orange;
+    color: #BF879E;
 }
 header {
     background-color: #333;
@@ -60,7 +60,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: orange;
+    color: #BF879E;
 }
 
 .container {

@@ -19,7 +19,7 @@ p {
     list-style-type: none;
 }
 #logo:hover {
-    color: orange;
+    color: #BF879E;
 }
 body {
     background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
@@ -61,7 +61,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: orange;
+    color: #BF879E;
 }
 
 .container {

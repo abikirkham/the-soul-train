@@ -25,7 +25,7 @@ body {
 }
 
 #logo:hover {
-    color: orange;
+    color: #BF879E;
 }
 #menu {
     font-size: 110%;
@@ -57,7 +57,7 @@ nav ul li a {
     font-weight: bold;
 }
 nav ul li a:hover {
-    color: orange;
+    color: #BF879E;
 }
 
 .container {
