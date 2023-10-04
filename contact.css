@@ -1,3 +1,4 @@
+/* Reset default margin and padding */
 body,
 h1,
 h2,
@@ -6,40 +7,22 @@ label,
 input,
 textarea,
 button {
+
     margin: 0;
     padding: 0;
 }
-body {
-            background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
-            background-size: cover; 
-            
-        }
 
 body {
     font-family: Arial, sans-serif;
-    background-color: none;
+    background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
+    background-size: cover;
     color: #fff;
 }
-body {
-    padding-top: 60px;
-    margin-top: 60px;
-}
-#logo {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-    font-size: 52px;
-}
-
-#logo:hover {
-    color: #BF879E;
-}
-
-#menu {
-    font-size: 110%;
-    letter-spacing: 4px;
-    list-style-type: none;
+@media screen and (max-width: 768px) {
+    body {
+        padding-top: 100px;
+        margin-top: 100px;
+    }
 }
 header {
     position: fixed;
@@ -57,9 +40,24 @@ header {
     align-items: center;
     height: 100%;
 }
+
+#logo {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 52px;
+}
+
+#logo:hover {
+    color: #BF879E;
+}
+
+/* Navigation styles */
 .no-underline {
     text-decoration: none;
 }
+
 nav ul {
     list-style: none;
     text-align: center;
@@ -75,30 +73,31 @@ nav ul li a {
     color: #fff;
     font-weight: bold;
 }
+
 nav ul li a:hover {
     color: #BF879E;
 }
+
+/* Container styles */
 .container {
     width: 90%;
-    max-width: 900px; 
+    max-width: 900px;
     margin: 0 auto;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     padding: 20px;
     background-color: rgba(51, 51, 51, 0.85);
 }
 
-
+/* Signup section styles */
 .signup {
     max-width: 800px;
     margin: 0 auto;
 }
 
-
 .signup h2 {
     font-size: 36px;
     margin-bottom: 20px;
 }
-
 
 .signup p {
     margin-bottom: 20px;
@@ -134,6 +133,7 @@ form button:hover {
     background-color: #BF879E;
 }
 
+/* Footer styles */
 footer {
     text-align: center;
     padding: 20px 0;

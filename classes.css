@@ -7,7 +7,7 @@ p {
 }
 
 body {
-    background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
+    background-image: url("https://i.ibb.co/fCGgSKn/yoga-background-img.png");
     background-size: cover;
     font-family: Arial, sans-serif;
     background-color: none;
@@ -17,6 +17,13 @@ body {
 body {
     padding-top: 60px;
     margin-top: 60px;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        padding-top: 100px;
+        margin-top: 100px;
+    }
 }
 
 #menu {
@@ -34,7 +41,7 @@ body {
 }
 
 #logo:hover {
-    color: #BF879E;
+    color: #bf879e;
 }
 
 header {
@@ -75,7 +82,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #BF879E;
+    color: #bf879e;
 }
 
 .schedule {
@@ -83,7 +90,6 @@ nav ul li a:hover {
 
     padding: 10px 0;
 }
-
 
 .cta-button {
     display: inline-block;
@@ -102,15 +108,11 @@ nav ul li a:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     padding: 20px;
     background-color: rgba(51, 51, 51, 0.85);
-
 }
-
 
 .cta-button:hover {
     background-color: #555;
 }
-
-
 
 footer {
     text-align: center;
