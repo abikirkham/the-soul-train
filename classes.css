@@ -102,10 +102,11 @@ nav ul li a:hover {
 }
 
 .container1 {
-    width: 28.5%;
+    width: auto;
     max-height: fit-content;
     margin: 0 auto;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    box-sizing: inherit;
     padding: 20px;
     background-color: rgba(51, 51, 51, 0.85);
     text-align: center;
@@ -114,7 +115,7 @@ nav ul li a:hover {
 
 .container .container1 .img .text-container {
     padding: 285px;
-    
+
 }
 
 .container1 .img {
@@ -122,10 +123,7 @@ nav ul li a:hover {
     max-height: 250px;
     padding: none;
 }
-.container1 h3 {
-    margin-top: 300px;
-   
-}
+
 
 
 footer {
