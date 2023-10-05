@@ -138,26 +138,6 @@ h1 {
     margin-bottom: 10px;
 }
 
-table {
-    width: 80%;
-    margin: 0 auto;
-    border-collapse: collapse;
-}
-
-th,
-td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: center;
-}
-
-th {
-    background-color: #BF879E;
-}
-
-tr:nth-child(even) {
-    background-color: #BF879E;
-}
 
 footer {
     text-align: center;

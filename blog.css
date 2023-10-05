@@ -86,6 +86,11 @@ nav ul li a {
 nav ul li a:hover {
   color: #bf879e;
 }
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
 
 .container {
   width: 90%;
