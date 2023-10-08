@@ -98,7 +98,14 @@ nav ul li a:hover {
     text-align: center;
 }
 
+.arrow {
+    float: right;
+}
 
+/* Initially, hide the content of the containers */
+.content {
+    display: none;
+}
 h3 a {
     color: #fff;
     background-color: #f4f4f4;

@@ -68,11 +68,7 @@ p a:hover {
     color: #BF879E;
 }
 
-#menu {
-    font-size: 110%;
-    letter-spacing: 4px;
-    list-style-type: none;
-}
+
 
 header {
     position: fixed;
@@ -114,6 +110,12 @@ nav ul li a {
 nav ul li a:hover {
     color: #BF879E;
 }
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
 
 .hero {
     background-image: url('hero-image.jpg');
