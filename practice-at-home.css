@@ -103,9 +103,10 @@ nav ul li a:hover {
 }
 
 /* Initially, hide the content of the containers */
-.content {
+.container .content {
     display: none;
 }
+
 h3 a {
     color: #fff;
     background-color: #f4f4f4;
