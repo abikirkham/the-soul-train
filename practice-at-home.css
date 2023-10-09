@@ -90,11 +90,11 @@ nav ul li a:hover {
 /* dropdown content */
 .dropdown-content {
     display: none;
-    top: 155px; 
+    top: 135px; 
     left: 0;
     right: 0;
     position: absolute;
-    padding-top: 20px;
+    padding-top: 30px;
     background-color: #333;
     z-index: 1;
     text-align: center;
