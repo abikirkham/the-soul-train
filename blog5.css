@@ -21,6 +21,40 @@ p {
 #logo:hover {
     color: #BF879E;
 }
+/* dropdown content */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    padding-top: 20px;
+    left: 46%;
+    background-color: #333;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    padding: 20px 60px;
+    text-decoration: none;
+    display: block;
+    color: #f9f9f9;
+}
+
+.dropdown-content .section a {
+    padding: 20px 60px;
+    text-decoration: none;
+    display: block;
+    color: #f9f9f9;
+}
+
+.dropdown-content .section a:hover {
+    background-color: #BF879E;
+    color: #fff;
+}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
 body {
     background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
     background-size: cover;

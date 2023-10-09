@@ -117,6 +117,41 @@ nav ul li a:hover {
 }
 
 
+
+/* dropdown content */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    padding-top: 20px;
+    left: 46%;
+    background-color: #333;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    padding: 20px 60px;
+    text-decoration: none;
+    display: block;
+    color: #f9f9f9;
+}
+
+.dropdown-content .section a {
+padding: 20px 60px;
+    text-decoration: none;
+    display: block;
+    color: #f9f9f9;
+}
+
+.dropdown-content .section a:hover {
+    background-color: #BF879E;
+    color: #fff;
+}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
 .hero {
     background-image: url('hero-image.jpg');
     background-size: cover;
@@ -127,6 +162,10 @@ nav ul li a:hover {
 .hero h1 {
     font-size: 36px;
     margin-bottom: 20px;
+}
+button {
+    background: none;
+        border: none;
 }
 
 .cta-button {
@@ -152,27 +191,7 @@ nav ul li a:hover {
 
 }
 
-button a {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #fff;
-    color: #333;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: 0.3s;
-    
-}
 
-button a:hover {
-    background-color: #BF879E;
-}
-button {
-    border-radius: 5px;
-   background-color: #fff;
-}
-button:hover {
-    background-color: #BF879E;
-}
 footer {
     text-align: center;
     padding: 20px 0;
