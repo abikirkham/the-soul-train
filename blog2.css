@@ -92,21 +92,23 @@ nav ul li a:hover {
 /* dropdown content */
 .dropdown-content {
     display: none;
+    top: 155px; 
+    left: 0;
+    right: 0;
     position: absolute;
     padding-top: 20px;
-    left: 46%;
     background-color: #333;
-    min-width: 160px;
     z-index: 1;
+    text-align: center;
 }
 
 .dropdown-content a {
-    padding: 20px 60px;
+    
     text-decoration: none;
     display: block;
     color: #f9f9f9;
+    width: 100%;
 }
-
 .dropdown-content .section a {
     padding: 20px 60px;
     text-decoration: none;
