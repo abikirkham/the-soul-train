@@ -11,11 +11,15 @@ button {
     margin: 0;
     padding: 0;
 }
-
-body {
-    font-family: Arial, sans-serif;
+main {
     background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
     background-size: cover;
+    margin-top: 50px;
+    padding: 60px;
+
+}
+body {
+    font-family: Arial, sans-serif;
     color: #fff;
 }
 
