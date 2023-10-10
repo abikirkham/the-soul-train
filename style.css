@@ -1,20 +1,149 @@
+/* Reset some default styles */
 body,
 h1,
 h2,
 h3,
-p {
+p,
+ul,
+li {
     margin: 0;
     padding: 0;
+    list-style: none;
 }
 
+/* Set a background image for the main content */
 main {
     background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
     background-size: cover;
-    margin-top: 50px;
-    padding: 60px;
+    padding: 65px;
+}
+.no-underline {
+    text-decoration: none;
+}
+/* Header styles */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    z-index: 100;
+    /* Ensure header is on top of other content */
+}
+.header-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#logo {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 52px;
+}
+#logo:hover {
+    color: #BF879E;
+}
+
+/* Navigation styles */
+nav {
+    text-align: center;
+}
+
+nav ul {
+    padding: 0;
+    
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #BF879E;
+}
+
+/* Dropdown menu styles */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.toggle {
+    display: none;
+}
+
+.toggle-label a {
+    cursor: pointer;
+    font-size: 36px;
+}
+label {
+    font-size: 30px;
+}
+.dropdown-content {
+    display: none;
+    top: 130px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    position: absolute;
+    background-color: #333;
+    z-index: 1;
+    text-align: center;
+    width: 100%;
+}
+.dropdown-content li {
+    padding: 10px;
+    text-align: left;
 
 }
 
+.toggle:checked+.toggle-label+.dropdown-content {
+    display: block;
+}
+
+/* Submenu styles */
+.submenu {
+        display: none;
+        top: 37px;
+        position: absolute;
+        background-color: #333;
+        z-index: 1;
+        text-align: left;
+        width: 100%;
+        padding-top: 5px;
+        left: 0;
+            right: 0;
+    }
+
+.dropdown .submenu {
+    width: 100%;
+}
+
+.dropdown:hover .submenu {
+    display: block;
+    width: 100%;
+}
 body {
     font-family: Arial, sans-serif;
     background-color: #333;
@@ -22,16 +151,47 @@ body {
 }
 
 body {
-    padding-top: 60px;
-    margin-top: 60px;
+    padding-top: 77px;
+    margin-top: 77px;
+}
+/* Hero section styles */
+.hero {
+    background-image: url('hero-image.jpg');
+    background-size: cover;
+    text-align: center;
+    padding: 100px 0;
+    color: #fff;
 }
 
+.hero h3 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
 
-@media screen and (max-width: 768px) {
-    body {
-        padding-top: 100px;
-        margin-top: 100px;
-    }
+/* Button styles */
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+    background-color: #BF879E;
+}
+
+/* Container styles */
+.container {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    background-color: rgba(51, 51, 51, 0.85);
+    color: #fff;
 }
 h2 a {
     color: #fff;
@@ -45,6 +205,7 @@ h2 a:hover {
 h3 a:hover {
     color: #BF879E;
 }
+
 h3 a {
     color: #fff;
     background-color: none;
@@ -58,148 +219,17 @@ p a {
 p a:hover {
     color: #bf879e;
 }
-#logo {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-    font-size: 52px;
-}
-
-#logo:hover {
-    color: #BF879E;
-}
-
-
-
-header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #333;
-    color: #fff;
-    padding: 20px 0;
-}
-
-.header-content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-}
-
-.no-underline {
-    text-decoration: none;
-}
-
-nav ul {
-    list-style: none;
-    text-align: center;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: #fff;
-    font-weight: bold;
-}
-
-nav ul li a:hover {
-    color: #BF879E;
-}
-#menu {
-    font-size: 110%;
-    letter-spacing: 4px;
-    list-style-type: none;
-}
-
-
-
-/* dropdown content */
-.dropdown-content {
-    display: none;
-    top: 135px; 
-    left: 0;
-    right: 0;
-    position: absolute;
-    padding-top: 30px;
-    background-color: #333;
-    z-index: 1;
-    text-align: center;
-}
-
-.dropdown-content a {
-    
-    text-decoration: none;
-    display: block;
-    color: #f9f9f9;
-    width: 100%;
-}
-
-.dropdown-content .section a {
-
-    text-decoration: none;
-    display: block;
-    color: #f9f9f9;
-}
-
-.dropdown-content .section a:hover {
-    background-color: #BF879E;
-    color: #fff;
-}
-
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-.hero {
-    background-image: url('hero-image.jpg');
-    background-size: cover;
-    text-align: center;
-    padding: 100px 0;
-}
-
-.hero h1 {
-    font-size: 36px;
-    margin-bottom: 20px;
-}
-button {
-    background: none;
-        border: none;
-}
-
-.cta-button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #fff;
-    color: #333;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: 0.3s;
-}
-.cta-button:hover {
-    background-color: #BF879E;
-}
-
-.container {
-    width: 90%;
-    max-width: 900px;
-    margin: 0 auto;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    padding: 20px;
-    background-color: rgba(51, 51, 51, 0.85);
-
-}
-
-
+/* Footer styles */
 footer {
     text-align: center;
     padding: 20px 0;
     background-color: #333;
     color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        padding-top: 100px;
+        margin-top: 100px;
+    }
 }
