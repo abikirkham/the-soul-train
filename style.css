@@ -15,7 +15,7 @@ li {
 main {
     background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
     background-size: cover;
-    padding: 65px;
+    padding: 70px;
 }
 .no-underline {
     text-decoration: none;
@@ -91,15 +91,19 @@ nav a:hover {
 
 .toggle {
     display: none;
+    color: #fff;
 }
-
+.toggle:hover {
+    color: #BF879E;
+}
 .toggle-label a {
-    cursor: pointer;
     font-size: 36px;
 }
+
 label {
     font-size: 30px;
 }
+
 .dropdown-content {
     display: none;
     top: 130px;
@@ -125,24 +129,18 @@ label {
 /* Submenu styles */
 .submenu {
         display: none;
-        top: 37px;
-        position: absolute;
-        background-color: #333;
-        z-index: 1;
-        text-align: left;
-        width: 100%;
-        padding-top: 5px;
+        position:fixed;
         left: 0;
-            right: 0;
+        right: 0;
+        background-color: #333;
+        text-align: center;
+        width: 100%;
+        padding: 15px;
     }
 
-.dropdown .submenu {
-    width: 100%;
-}
 
 .dropdown:hover .submenu {
     display: block;
-    width: 100%;
 }
 body {
     font-family: Arial, sans-serif;
