@@ -70,6 +70,75 @@ body {
     background-color: #333;
     color: #fff;
 }
+/* Dropdown menu styles */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.toggle {
+    display: none;
+    color: #fff;
+}
+
+.toggle:hover {
+    color: #BF879E;
+}
+
+.toggle-label a {
+    font-size: 36px;
+}
+
+label {
+    font-size: 30px;
+}
+
+.dropdown-content {
+    display: none;
+    top: 130px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    position: absolute;
+    background-color: #333;
+    z-index: 1;
+    text-align: center;
+    width: 100%;
+}
+
+.dropdown-content li {
+    padding: 10px;
+    text-align: left;
+
+}
+
+.toggle:checked+.toggle-label+.dropdown-content {
+    display: block;
+}
+
+/* Submenu styles */
+.submenu {
+    display: none;
+    position: fixed;
+    left: 0;
+    right: 0;
+    background-color: #333;
+    text-align: center;
+    width: 100%;
+    padding: 15px;
+}
+
+
+.dropdown:hover .submenu {
+    display: block;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #333;
+    color: #fff;
+}
+
 body {
     padding-top: 60px;
     margin-top: 60px;
