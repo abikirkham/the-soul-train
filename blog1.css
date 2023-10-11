@@ -155,42 +155,7 @@ nav ul li a {
 nav ul li a:hover {
     color: #BF879E;
 }
-.dropdown-content {
-    display: none;
-    top: 135px; 
-    left: 0;
-    right: 0;
-    position: absolute;
-    padding-top: 30px;
-    background-color: #333;
-    z-index: 1;
-    text-align: center;
-}
 
-.dropdown-content a {
-    
-    text-decoration: none;
-    display: block;
-    color: #f9f9f9;
-    width: 100%;
-}
-
-.dropdown-content .section a {
-    padding: 20px 60px;
-    text-decoration: none;
-    display: block;
-    color: #f9f9f9;
-}
-
-.dropdown-content .section a:hover {
-    background-color: #BF879E;
-    color: #fff;
-}
-
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
 .container {
     width: 90%;
     max-width: 900px;

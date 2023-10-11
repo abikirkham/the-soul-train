@@ -2,10 +2,7 @@
 body,
 h1,
 h2,
-h3,
-p,
-ul,
-li {
+p{
     margin: 0;
     padding: 0;
     list-style: none;
@@ -15,7 +12,9 @@ li {
 main {
     background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
     background-size: cover;
-    padding: 70px;
+    margin-top: 50px;
+    padding: 60px;
+
 }
 .no-underline {
     text-decoration: none;
@@ -118,7 +117,7 @@ label {
 }
 .dropdown-content li {
     padding: 10px;
-    text-align: left;
+    text-align: center;
 
 }
 
@@ -149,8 +148,8 @@ body {
 }
 
 body {
-    padding-top: 77px;
-    margin-top: 77px;
+    padding-top: 60px;
+    margin-top: 60px;
 }
 /* Hero section styles */
 .hero {
