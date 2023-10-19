@@ -1,32 +1,13 @@
-/* Reset default margin and padding */
+/* Reset default styles */
 body,
 h1,
 h2,
-h3,
-p,
-label,
-input,
-textarea,
-button {
+p {
     margin: 0;
     padding: 0;
+    list-style: none;
 }
 
-/* Global Styles */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #333;
-    color: #fff;
-    padding-top: 60px;
-    margin-top: 60px;
-}
-
-@media screen and (max-width: 768px) {
-    body {
-        padding-top: 100px;
-        margin-top: 100px;
-    }
-}
 /* Background image for the main content */
 main {
     background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
@@ -34,11 +15,13 @@ main {
     margin-top: 50px;
     padding: 60px;
 }
+
 /* Remove underline for links with class 'no-underline' */
 .no-underline {
     text-decoration: none;
 }
-/* Header Styles */
+
+/* Header styles */
 header {
     position: fixed;
     top: 0;
@@ -47,6 +30,7 @@ header {
     background-color: #333;
     color: #fff;
     padding: 20px 0;
+    z-index: 100;
 }
 
 .header-content {
@@ -54,12 +38,16 @@ header {
     justify-content: center;
     align-items: center;
     height: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
 }
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
 }
+
 #logo {
     background-color: #333;
     color: #fff;
@@ -71,14 +59,36 @@ header {
 #logo:hover {
     color: #BF879E;
 }
-/* Dropdown Menu Styles */
+
+/* Navigation styles */
+nav {
+    text-align: center;
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #BF879E;
+}
+
+/* Dropdown menu styles */
 .dropdown {
     position: relative;
     display: inline-block;
-}
-
-.toggle-label {
-    text-align: center;
 }
 
 .toggle {
@@ -113,14 +123,14 @@ label {
 
 .dropdown-content li {
     padding: 10px;
-    text-align: left;
+    text-align: center;
 }
 
-.toggle:checked + .toggle-label + .dropdown-content {
+.toggle:checked+.toggle-label+.dropdown-content {
     display: block;
 }
 
-/* Submenu Styles */
+/* Submenu styles */
 .submenu {
     display: none;
     position: fixed;
@@ -136,45 +146,53 @@ label {
     display: block;
 }
 
-/* Logo Styles */
-#logo {
+/* Media query for smaller screens */
+@media screen and (max-width: 768px) {
+    body {
+        padding-top: 100px;
+        margin-top: 100px;
+    }
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
     background-color: #333;
     color: #fff;
-    padding: 10px 0;
+    padding-top: 60px;
+    margin-top: 60px;
+}
+
+/* Hero section styles */
+.hero {
+    background-image: url('hero-image.jpg');
+    background-size: cover;
     text-align: center;
-    font-size: 52px;
-}
-
-#logo:hover {
-    color: #BF879E;
-}
-
-/* Navigation Styles */
-.no-underline {
-    text-decoration: none;
-}
-
-nav ul {
-    list-style: none;
-    text-align: center;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-nav ul li a {
-    text-decoration: none;
+    padding: 100px 0;
     color: #fff;
-    font-weight: bold;
 }
 
-nav ul li a:hover {
-    color: #BF879E;
+.hero h3 {
+    font-size: 28px;
+    margin-bottom: 20px;
 }
 
-/* Container Styles */
+/* Button styles */
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+    background-color: #BF879E;
+}
+
+/* Container styles */
 .container {
     width: 90%;
     max-width: 900px;
@@ -182,21 +200,25 @@ nav ul li a:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     padding: 20px;
     background-color: rgba(51, 51, 51, 0.85);
+    color: #fff;
 }
 
-/* Text Styles */
-h5 {
+h2 a {
     color: #fff;
     background-color: none;
+}
+
+h2 a:hover {
+    color: #BF879E;
+}
+
+h3 a:hover {
+    color: #BF879E;
 }
 
 h3 a {
     color: #fff;
     background-color: none;
-}
-
-h3 a:hover {
-    color: #BF879E;
 }
 
 p a {
@@ -208,7 +230,7 @@ p a:hover {
     color: #BF879E;
 }
 
-/* Footer Styles */
+/* Footer styles */
 footer {
     text-align: center;
     padding: 20px 0;
