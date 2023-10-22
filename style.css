@@ -1,5 +1,119 @@
 /* Reset default styles */
-body, h1, h2, p {
+body,
+h1,
+h2,
+h3,
+ul,
+li,
+p {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #333;
+    color: #fff;
+    padding-top: 60px;
+    margin-top: 60px;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        padding-top: 100px;
+        margin-top: 100px;
+    }
+}
+
+/* Background image for the main content */
+main {
+    background-image: url('https://i.ibb.co/fCGgSKn/yoga-background-img.png');
+    background-size: cover;
+    margin-top: 50px;
+    padding: 60px;
+}
+
+/* Remove underline for links with class 'no-underline' */
+.no-underline {
+    text-decoration: none;
+}
+
+/* Header Styles */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    z-index: 100;
+}
+
+.header-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#menu,
+#logo {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#logo {
+    font-size: 52px;
+}
+
+#logo:hover {
+    color: #BF879E;
+}
+
+/* Navigation Styles */
+nav {
+    text-align: center;
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #BF879E;
+}
+
+User delete any repeated -
+
+/* Reset default styles */
+body,
+h1,
+h2,
+p {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -123,11 +237,10 @@ label {
     text-align: center;
 }
 
-.toggle:checked + .toggle-label + .dropdown-content {
+.toggle:checked+.toggle-label+.dropdown-content {
     display: block;
 }
-
-/* Submenu styles */
+/* Submenu Styles */
 .submenu {
     display: none;
     position: fixed;
@@ -143,24 +256,7 @@ label {
     display: block;
 }
 
-/* Media query for smaller screens */
-@media screen and (max-width: 768px) {
-    body {
-        padding-top: 100px;
-        margin-top: 100px;
-    }
-}
-
-/* Body styles */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #333;
-    color: #fff;
-    padding-top: 60px;
-    margin-top: 60px;
-}
-
-/* Hero section styles */
+/* Hero Section Styles */
 .hero {
     background-image: url('hero-image.jpg');
     background-size: cover;
@@ -174,7 +270,7 @@ body {
     margin-bottom: 20px;
 }
 
-/* Button styles */
+/* Button Styles */
 .cta-button {
     display: inline-block;
     padding: 10px 20px;
@@ -189,7 +285,7 @@ body {
     background-color: #BF879E;
 }
 
-/* Container styles */
+/* Container Styles */
 .container {
     width: 90%;
     max-width: 900px;
@@ -200,34 +296,79 @@ body {
     color: #fff;
 }
 
-h2 a {
-    color: #fff;
-    background-color: none;
+/* About Section Styles */
+.about h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
-h2 a:hover {
-    color: #BF879E;
+.about h2 {
+    font-size: 24px;
+    margin-top: 20px;
 }
 
-h3 a:hover {
-    color: #BF879E;
+.about h3 {
+    font-size: 20px;
+    margin-top: 15px;
 }
 
-h3 a {
-    color: #fff;
-    background-color: none;
+.about ul {
+    list-style: disc;
+    margin-left: 20px;
+    margin-top: 10px;
 }
 
-p a {
-    color: #fff;
-    background-color: none;
+.about ul li {
+    margin-bottom: 10px;
 }
 
-p a:hover {
-    color: #BF879E;
+/* Signup Section Styles */
+.signup {
+    max-width: 800px;
+    margin: 0 auto;
 }
 
-/* Footer styles */
+.signup h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.signup p {
+    margin-bottom: 20px;
+}
+
+form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+form button:hover {
+    background-color: #BF879E;
+}
+
+/* Footer Styles */
 footer {
     text-align: center;
     padding: 20px 0;
