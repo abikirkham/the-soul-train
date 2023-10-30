@@ -256,7 +256,24 @@ p a:hover {
     background-color: rgba(51, 51, 51, 0.85);
     color: #fff;
 }
-
+.container2 {
+    text-align: center;
+     width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    background-color: rgba(51, 51, 51, 0.85);
+    color: #fff;
+}
+.container2 h1 a {
+    text-align: center;
+    color: #fff;
+}
+.container2 h1 a:hover {
+    text-align: center;
+    color: #BF879E;
+}
 /* About Section Styles */
 .about h1 {
     font-size: 36px;
