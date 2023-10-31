@@ -22,9 +22,9 @@ body {
 
 @media screen and (max-width: 768px) {
     body {
-        padding-top: 100px;
-        margin-top: 100px;
-    }
+            padding-top: 100px;
+            margin-top: 100px;
+        }
 }
 
 /* Remove underline for links with class 'no-underline' */
