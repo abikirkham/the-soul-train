@@ -224,7 +224,7 @@ p a:hover {
 }
 
 /* Button Styles */
-.cta-button {
+.button {
     display: inline-block;
     padding: 10px 20px;
     background-color: #fff;
@@ -234,7 +234,7 @@ p a:hover {
     transition: background-color 0.3s;
 }
 
-.cta-button:hover {
+.button:hover {
     background-color: #bf879e;
 }
 
