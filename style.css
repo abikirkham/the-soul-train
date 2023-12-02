@@ -20,17 +20,6 @@ body {
     margin-top: 60px;
 }
 
-@media screen and (max-width: 768px) {
-    body {
-        padding-top: 100px;
-        margin-top: 100px;
-    }
-
-    .container1 {
-        flex-direction: column;
-    }
-}
-
 /* Remove underline for links with class 'no-underline' */
 .no-underline {
     text-decoration: none;
@@ -102,7 +91,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #bf879e;
+    color: #407861;
 }
 
 /* Dropdown menu styles */
@@ -157,10 +146,11 @@ label {
     position: relative;
     left: 0;
     right: 0;
-    background-color: #333;
+    background-color: #bf879e;
     text-align: center;
     width: 100%;
     padding: 15px;
+    z-index: 1;
 }
 
 .dropdown:hover .submenu {
@@ -192,7 +182,6 @@ p {
 
 h2 a {
     color: #fff;
-    background-color: none;
 }
 
 h2 a:hover {
@@ -205,12 +194,10 @@ h3 a:hover {
 
 h3 a {
     color: #fff;
-    background-color: none;
 }
 
 p a {
     color: #fff;
-    background-color: none;
 }
 
 p a:hover {
@@ -369,7 +356,6 @@ form button:hover a {
     margin: 0 auto;
     box-sizing: inherit;
     padding: 20px;
-    background-color: none;
     text-align: start;
     display: inline-flex;
 }
@@ -412,4 +398,18 @@ footer {
     padding: 20px 0;
     background-color: #333;
     color: #fff;
+}
+
+/* Media Styles for smaller screen */
+@media screen and (max-width: 880px) {
+    body {
+        padding-top: 100px;
+        margin-top: 100px;
+    }
+    nav {
+        padding: 2px;
+    }
+    .container1 {
+        flex-direction: column;
+    }
 }
