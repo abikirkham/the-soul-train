@@ -76,7 +76,49 @@ Readily available contact information for questions, feedback, or accessibility 
 
 ## Testing
 
-A thorough testing process guarantees a flawless user experience across various web browsers and screen sizes. Vigilant in identifying and addressing potential bugs or issues.
+# Responsive Design
+
+Ensure the project is responsive across various screen sizes and browsers, adhering to the WCAG 2.1 Reflow criteria.
+
+### Testing Procedure
+
+1. Open your preferred browser and visit the Yoga for Beginners website.
+2. Access developer tools by right-clicking and selecting inspect.
+3. Set the view to responsive and reduce the width to 320px.
+4. Adjust the zoom to 50%.
+5. Drag the responsive window to its maximum width.
+
+### Expected Outcome
+
+- The website should seamlessly adapt to different screen sizes.
+- Images must not appear pixelated or stretched.
+- Horizontal scrolling should be avoided.
+- Elements on the page should not overlap.
+
+### Actual Results
+
+- The website behaved as expected, with the exception of a landscape view issue in Mozilla Firefox (details in the Unresolved Bugs section).
+- No responsive issues were identified on tested devices: Android Oukitel C21 Pro, TCL 30 Pro, iPhone SE, and Samsung Galaxy Tablet.
+
+## Accessibility
+
+Utilize the Wave Accessibility tool for ongoing development and final testing. Concentrate on the following criteria:
+
+1. Ensure all forms have associated labels or appropriate aria-labels.
+2. Validate that color contrasts meet the minimum ratios outlined in WCAG 2.1 Contrast Guidelines.
+3. Verify correct heading levels to accurately convey content importance.
+4. Confirm content is organized within landmarks for ease of use with assistive technology.
+5. Provide alternative text or titles for non-textual content.
+6. Set the HTML page lang attribute.
+7. Implement Aria properties in adherence to best practices outlined in WCAG 2.1.
+8. Follow established coding best practices for WCAG 2.1.
+
+### Manual Testing
+
+Identified accessibility issues:
+
+**Issue #1:**
+Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which i found from Microaoft word keyboard.
 
 ## Deployment
 
@@ -86,5 +128,5 @@ A thorough testing process guarantees a flawless user experience across various 
 
 I extend gratitude to Code Institute for knowledge in HTML and CSS, enabling me to bring my ideas to life. The transformative journey from a nursing career to coding unveiled the healing power of meditation and yoga, essential tools in navigating the transition.
 
-I have taken some skillsI have learnt from code institute such as the drop down boxes and incorporated it with some extra leanring on navigation options, which can be found [here](<https://www.youtube.com/watch?v=iXKScihfSwE>).
+I have taken some skills I have learnt from code institute such as the drop down boxes and incorporated it with some extra leanring on navigation options, which can be found [here](<https://www.youtube.com/watch?v=iXKScihfSwE>).
 
