@@ -1,6 +1,6 @@
 # The Soul Lane: Navigating Life with Mindfulness and Meditation :lotus_position_woman:
 
-Welcome to **The Soul Lane**, your digital haven designed to help you navigate the challenges of modern life through the power of mindfulness and meditation. In today's fast-paced world, rife with stress and anxiety, this sanctuary offers inner peace and resilience, empowering you to discover clarity in the midst of chaos for a happier and healthier life. The live link can be accessed [here] (<https://abikirkham.github.io/the-soul-train/index.html>)
+Welcome to **The Soul Lane**, your digital haven designed to help you navigate the challenges of modern life through the power of mindfulness and meditation. In today's fast-paced world, rife with stress and anxiety, this sanctuary offers inner peace and resilience, empowering you to discover clarity in the midst of chaos for a happier and healthier life. The live link can be accessed [here](<https://abikirkham.github.io/the-soul-train/index.html>)
 
 ## My Vision
 
@@ -10,25 +10,30 @@ At *The Soul Lane*, I promote mindfulness and meditation as essential practices 
 
 ### Home Page
 Your digital doorway featuring engaging visuals, concise descriptions, and inspirational quotes. The home page aims to pique curiosity and inspire a deeper exploration.
+![Home](docs/README-images/homepage.jpg)
 
 ### About Page :dizzy:
 
 Explore the heart of my mission, offering resources like sound healing audio and yoga essentials for an enhanced mindfulness journey.
+![About](docs/README-images/about-us-page.jpg)
 
 ### Class Schedule Page :calendar:
 Access an updated schedule of yoga, pilates, and meditation classes for active participation and seamless integration into daily routines.
+![Classes](docs/README-images/class-schedule.jpg)
 
 ### Blog Page
 Insightful blogs on mindful eating and crystals provide knowledge and skills to enhance your mindfulness journey.
+![Blogs](docs/README-images/blog-page.jpg)
 
 ### Contact Page
 Establish a direct line of communication for personalized guidance, fostering a sense of belonging and support.
+![Contact](docs/README-images/signup.jpg)
 
 ## Existing Features
 
 ### Navigation Bar
 Consistent across all pages, ensuring smooth and intuitive navigation for a seamless user experience.
-![Nav Menu] (docs/README-images/Nav-img.jpg)
+![Nav Menu](docs/README-images/Nav-img.jpg)
 
 ### Landing Page
 A captivating point of entry with visually appealing content and animations, introducing the mission of *The Soul Lane*.
