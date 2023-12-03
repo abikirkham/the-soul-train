@@ -65,12 +65,6 @@ Outlining rules and expectations for user engagement, creating a clear framework
 ### FAQ Section
 Answers to common queries for users new to mindfulness and meditation.
 
-### Testimonials and User Stories
-Real-life stories showcasing the impact and benefits of mindfulness practices.
-
-### Resources for Accessibility
-Links to external sources for those interested in delving deeper into accessibility and mindfulness topics.
-
 ### Contact Information
 Readily available contact information for questions, feedback, or accessibility concerns.
 
