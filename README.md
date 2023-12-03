@@ -32,23 +32,23 @@ Establish a direct line of communication for personalized guidance, fostering a 
 ## Existing Features
 
 ### Navigation Bar
-Consistent across all pages, ensuring smooth and intuitive navigation for a seamless user experience.
+Consistent across all pages, ensuring smooth and intuitive navigation for a seamless user experience. Creating a smooth interaction which can be seen easy on the eyes ... *almost peaceful.*
 ![Nav Menu](docs/README-images/Nav-img.jpg)
 
 ### Landing Page
-A captivating point of entry with visually appealing content and animations, introducing the mission of *The Soul Lane*.
+A captivating point of entry with visually appealing, simplistic classe timetables, introducing the mission of *The Soul Lane*. Creating easy access for those who have accessed the page previosuly and wanted to jump straight to the classes. 
 
 ### Club Ethos
-Outlining the benefits of joining Love Running meetups, encouraging running as a form of exercise.
+Outlining the benefits of joining youga, pilates and medication for beginners, encouraging peacefullness to the soul, joinginh the training journey.
 
 ### Meetup Times
-Crucial and real-time information about the schedules, locations, and distances of upcoming meetups.
+Crucial and real-time information about the schedules, introductions, and defintions for what each class means.
 ![Pilates](docs/README-images/pilates-classes.jpg)
 ![Yoga](docs/README-images/yoga-classes.jpg)
 ![Meditation](docs/README-images/meditation-classes.jpg)
 
 ### Footer
-Strategically positioned links to social media profiles, promoting social engagement.
+Strategically positioned footer, reminding this is for beginners.
 ![Footer](docs/README-images/Footer.jpg)
 
 ## Accessibility and Transparency
@@ -86,6 +86,5 @@ A thorough testing process guarantees a flawless user experience across various 
 
 I extend gratitude to Code Institute for knowledge in HTML and CSS, enabling me to bring my ideas to life. The transformative journey from a nursing career to coding unveiled the healing power of meditation and yoga, essential tools in navigating the transition.
 
-Deep appreciation to myself for the creation, imagery, and entirety of *The Soul Lane*. Crafting this platform has been a labor of love, and I take pride in the result.
+I have taken some skillsI have learnt from code institute such as the drop down boxes and incorporated it with some extra leanring on navigation options, which can be found [here](<https://www.youtube.com/watch?v=iXKScihfSwE>).
 
-Thank you for joining this journey towards mindfulness and meditation. Together, we unlock the door to inner peace and overall well-being, embracing the transformative potential of these practices.
