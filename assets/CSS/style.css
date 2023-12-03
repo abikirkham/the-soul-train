@@ -401,12 +401,12 @@ footer {
 }
 
 /* Media Styles for smaller screen */
-@media screen and (max-width: 880px) {
+@media screen and (max-width: 800px) {
+  
     body {
-        padding-top: 100px;
-        margin-top: 100px;
-    }
-
+            padding-top: 100px;
+            margin-top: 100px;
+        }
     .container1 {
         flex-direction: column;
     }

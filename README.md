@@ -124,3 +124,6 @@ I extend gratitude to Code Institute for knowledge in HTML and CSS, enabling me 
 
 I have taken some skills I have learnt from code institute such as the drop down boxes and incorporated it with some extra leanring on navigation options, which can be found [here](<https://www.youtube.com/watch?v=iXKScihfSwE>).
 
+Creating better visual effects for my users experience was impirtant,I added an extra colour to links for users to know it was a link when they hovered their cursor of over the link. I got this informstion from [here](<https://developer.mozilla.org/en-US/docs/Web/CSS/:hover#>). 
+
+Finally, I wanted to create a simple, soft, emotional vibe to my styles, by adding the opaque style to the containers - information found [here](<https://developer.mozilla.org/en-US/docs/Learn/CSS/Howto/Make_box_transparent>). Aswell as creating a background which relates to the activties of the page - this to me, created a chnnce for users to get a feel of what they could experience when practising our yoga. The images used were sourced from [freeimages](<https://www.freeimages.com>) I then created the background using this [app](<https://www.sketchbook.com>) by collating the images and added a shadow to the images on top so this would not be harsh on the eyes.
