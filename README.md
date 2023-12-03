@@ -1,6 +1,6 @@
 # The Soul Lane: Navigating Life with Mindfulness and Meditation :lotus_position_woman:
 
-Welcome to **The Soul Lane**, your digital haven designed to help you navigate the challenges of modern life through the power of mindfulness and meditation. In today's fast-paced world, rife with stress and anxiety, this sanctuary offers inner peace and resilience, empowering you to discover clarity in the midst of chaos for a happier and healthier life. The live link can be accessed [here](<https://abikirkham.github.io/the-soul-train/index.html>)
+Welcome to **The Soul Lane**, your digital haven designed to help you navigate the challenges of modern life through the power of mindfulness and meditation. In today's fast-paced world, rife with stress and anxiety, this sanctuary offers inner peace and resilience, empowering you to discover clarity in the midst of chaos for a happier and healthier life. The live link can be accessed [here](<https://abikirkham.github.io/the-soul-train/index.html>).
 
 ## My Vision
 
@@ -43,9 +43,13 @@ Outlining the benefits of joining Love Running meetups, encouraging running as a
 
 ### Meetup Times
 Crucial and real-time information about the schedules, locations, and distances of upcoming meetups.
+![Pilates](docs/README-images/pilates-classes.jpg)
+![Yoga](docs/README-images/yoga-classes.jpg)
+![Meditation](docs/README-images/meditation-classes.jpg)
 
 ### Footer
 Strategically positioned links to social media profiles, promoting social engagement.
+![Footer](docs/README-images/Footer.jpg)
 
 ## Accessibility and Transparency
 
