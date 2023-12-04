@@ -56,15 +56,6 @@ Strategically positioned footer, reminding this is for beginners.
 ### Accessibility Statement
 Committed to making *The Soul Lane* accessible to all users, complying with accessibility standards such as WCAG.
 
-### Privacy Policy
-Details on how user data is handled and protected, fostering trust and transparency.
-
-### Terms of Use
-Outlining rules and expectations for user engagement, creating a clear framework for interaction.
-
-### FAQ Section
-Answers to common queries for users new to mindfulness and meditation.
-
 ### Contact Information
 Readily available contact information for questions, feedback, or accessibility concerns.
 
@@ -81,18 +72,6 @@ Ensure the project is responsive across various screen sizes and browsers, adher
 3. Set the view to responsive and reduce the width to 320px.
 4. Adjust the zoom to 50%.
 5. Drag the responsive window to its maximum width.
-
-### Expected Outcome
-
-- The website should seamlessly adapt to different screen sizes.
-- Images must not appear pixelated or stretched.
-- Horizontal scrolling should be avoided.
-- Elements on the page should not overlap.
-
-### Actual Results
-
-- The website behaved as expected, with the exception of a landscape view issue in Mozilla Firefox (details in the Unresolved Bugs section).
-- No responsive issues were identified on tested devices: Android Oukitel C21 Pro, TCL 30 Pro, iPhone SE, and Samsung Galaxy Tablet.
 
 ## Accessibility
 
