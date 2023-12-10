@@ -104,7 +104,7 @@ This project, *The Soul Lane*, is deployed using GitHub pages using the followin
 - In your Repository section, select the Repository you wish to deploy.
 - In the top horizontal Menu, locate and click the Settings link.
 - Inside the Setting page, around halfway down locate the GitHub Pages Section.
-- Under Source, select the None tab and change it to Master and click Save.
+- Under Source, select the None tab and change it to Main and click Save.
 - Finally once the page resets scroll back down to the GitHub Pages Section to see the following message "Your site is ready to be published at (Link to the GitHub Page Web Address)". It can take time for the link to open your project initially, so please don't be worried if it down not load immediately.
 
 ### Forking the Github Repository
