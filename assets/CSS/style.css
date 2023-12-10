@@ -118,11 +118,9 @@ label {
 
 .dropdown-content {
     display: none;
-    top: 130px;
+    top: 127px;
     position: fixed;
-    left: 0;
-    right: 0;
-    margin-bottom: 20px;
+    padding: 20px, 20px;
     background-color: #333;
     z-index: 1;
     text-align: center;
