@@ -95,7 +95,35 @@ Hidden checkboxes and labels for the gallery filter and accordion were inaccessi
 
 ## Deployment
 
-*The Soul Lane* is hosted on GitHub Pages, offering easy access to content and services. The deployment process involves selecting the Master Branch in the GitHub repository's Settings tab, with the live link providing direct access.
+### Github
+
+This project, *The Soul Lane*, is deployed using GitHub pages using the following process,
+
+### Deploying a GitHub Repository via GitHub Pages
+
+- In your Repository section, select the Repository you wish to deploy.
+- In the top horizontal Menu, locate and click the Settings link.
+- Inside the Setting page, around halfway down locate the GitHub Pages Section.
+- Under Source, select the None tab and change it to Master and click Save.
+- Finally once the page resets scroll back down to the GitHub Pages Section to see the following message "Your site is ready to be published at (Link to the GitHub Page Web Address)". It can take time for the link to open your project initially, so please don't be worried if it down not load immediately.
+
+### Forking the Github Repository
+
+You can fork a GitHub Repository to make a copy of the original repository to view or make changes without it affecting the original repository.
+
+### Find the GitHub repository.
+
+- At the top of the page to the right, under your account, click the Fork button.
+- You will now have a copy of the repository in your GitHub account.
+
+### Making a Local Clone
+
+- Find the GitHub Repository.
+- Click the Code button
+- Copy the link shown.
+- In Gitpod, change the directory to the location you would like the cloned directory to be located.
+- Type git clone, and paste the link you copied in step 3.
+- Press Enter to have the local clone created.
 
 ## Credits
 
