@@ -136,27 +136,6 @@ label {
     display: block;
 }
 
-/* Submenu Styles */
-.submenu {
-    display: none;
-    position: relative;
-    left: 0;
-    right: 0;
-    background-color: #bf879e;
-    text-align: center;
-    width: 100%;
-    padding: 15px;
-    z-index: 1;
-}
-
-.dropdown:hover .submenu {
-    display: block;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    width: 100%;
-}
-
 /* Background image for the main content */
 main {
     background-image: url("https://i.ibb.co/fCGgSKn/yoga-background-img.png");
