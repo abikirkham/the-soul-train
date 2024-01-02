@@ -88,7 +88,79 @@ Utilize the Wave Accessibility tool for ongoing development and final testing. C
 
 ### Manual Testing
 
-Identified accessibility issues:
+
+## Overview
+
+This README section provides a summary of testing conducted on The Soul Train website to ensure its functionality, responsiveness, and accessibility. The testing covers various aspects, including responsiveness, accessibility, functional testing, form testing, and validator testing.
+
+## Responsiveness
+
+The Soul Train website was tested for responsiveness on screen sizes from 320px and above, following WCAG 2.1 Reflow criteria for responsive design. The testing was performed on Chrome, Edge, and Opera browsers.
+
+### Testing Steps
+
+1. Open the browser and navigate to The Soul Train.
+2. Access developer tools (right-click and inspect).
+3. Set the view to responsive and reduce the width to 320px.
+4. Zoom out to 50%.
+5. Click and drag the responsive window to maximum width.
+
+### Expected Results
+
+The website should be responsive on all screen sizes with no pixelated or stretched images, no horizontal scrolling, and no overlapping elements.
+
+### Actual Results
+
+The website behaved as expected.
+
+## Accessibility
+
+Wave Accessibility tool was used throughout development and final testing to ensure accessibility compliance. Testing focused on various accessibility criteria.
+
+### Manual Tests
+
+Manual tests were conducted to ensure accessibility without the need for additional details about specific issues.
+
+## Functional Testing
+
+### Navigation Links
+
+Navigation links on the respective pages were tested for correctness, ensuring they directed users to the intended pages.
+
+- Home links to index.html.
+- About links to about.html.
+- Classes links to classed.html.
+- The sign up page links to contact.html.
+- All blogs can be seen under blogs.html with hidden htmls under the 'Read More' section for the 5 different blogs.
+
+All links navigated to the correct pages as expected.
+
+## Form Testing
+
+The home page form was tested for both correct and incorrect inputs, covering various scenarios.
+
+### Scenario One - Correct Inputs
+
+The form submits successfully with no errors, redirecting to index.html.
+
+### Scenarios Two to Six
+
+These scenarios were tested for missing required fields and incorrect email formats. In each case, the form behaves correctly, displaying the necessary errors and not submitting the form.
+
+## Validator Testing
+
+### HTML
+
+No errors were found when using the official W3C validator for HTML.
+
+### CSS
+
+No errors were found when using the official (Jigsaw) validator for CSS.
+
+---
+
+This README summarises the testing conducted on The Soul Train website. The website was found to be responsive, accessible, and functional across various browsers and devices.
+
 
 **Issue #1:**
 Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which i found from Microaoft word keyboard.
