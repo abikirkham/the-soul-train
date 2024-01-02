@@ -51,13 +51,7 @@ Crucial and real-time information about the schedules, introductions, and defint
 Strategically positioned footer, reminding this is for beginners.
 ![Footer](docs/README-images/Footer.jpg)
 
-## Accessibility and Transparency
 
-### Accessibility Statement
-Committed to making *The Soul Lane* accessible to all users, complying with accessibility standards such as WCAG.
-
-### Contact Information
-Readily available contact information for questions, feedback, or accessibility concerns.
 
 # Testing
 
