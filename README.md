@@ -59,35 +59,7 @@ Committed to making *The Soul Lane* accessible to all users, complying with acce
 ### Contact Information
 Readily available contact information for questions, feedback, or accessibility concerns.
 
-## Testing
-
-# Responsive Design
-
-Ensure the project is responsive across various screen sizes and browsers, adhering to the WCAG 2.1 Reflow criteria.
-
-### Testing Procedure
-
-1. Open your preferred browser and visit the Yoga for Beginners website.
-2. Access developer tools by right-clicking and selecting inspect.
-3. Set the view to responsive and reduce the width to 320px.
-4. Adjust the zoom to 50%.
-5. Drag the responsive window to its maximum width.
-
-## Accessibility
-
-Utilize the Wave Accessibility tool for ongoing development and final testing. Concentrate on the following criteria:
-
-1. Ensure all forms have associated labels or appropriate aria-labels.
-2. Validate that color contrasts meet the minimum ratios outlined in WCAG 2.1 Contrast Guidelines.
-3. Verify correct heading levels to accurately convey content importance.
-4. Confirm content is organized within landmarks for ease of use with assistive technology.
-5. Provide alternative text or titles for non-textual content.
-6. Set the HTML page lang attribute.
-7. Implement Aria properties in adherence to best practices outlined in WCAG 2.1.
-8. Follow established coding best practices for WCAG 2.1.
-
-### Manual Testing
-
+# Testing
 
 ## Overview
 
@@ -113,9 +85,20 @@ The website should be responsive on all screen sizes with no pixelated or stretc
 
 The website behaved as expected.
 
+
 ## Accessibility
 
-Wave Accessibility tool was used throughout development and final testing to ensure accessibility compliance. Testing focused on various accessibility criteria.
+Utilize the Wave Accessibility tool for ongoing development and final testing. Concentrate on the following criteria:
+
+1. Ensure all forms have associated labels or appropriate aria-labels.
+2. Validate that color contrasts meet the minimum ratios outlined in WCAG 2.1 Contrast Guidelines.
+3. Verify correct heading levels to accurately convey content importance.
+4. Confirm content is organized within landmarks for ease of use with assistive technology.
+5. Provide alternative text or titles for non-textual content.
+6. Set the HTML page lang attribute.
+7. Implement Aria properties in adherence to best practices outlined in WCAG 2.1.
+8. Follow established coding best practices for WCAG 2.1.
+
 
 ### Manual Tests
 
@@ -139,21 +122,21 @@ All links navigated to the correct pages as expected.
 
 The home page form was tested for both correct and incorrect inputs, covering various scenarios.
 
-### Scenario One - Correct Inputs
+## Scenario One - Correct Inputs
 
 The form submits successfully with no errors, redirecting to index.html.
 
-### Scenarios Two to Six
+## Scenarios Two to Six
 
 These scenarios were tested for missing required fields and incorrect email formats. In each case, the form behaves correctly, displaying the necessary errors and not submitting the form.
 
-## Validator Testing
+# Validator Testing
 
-### HTML
+## HTML
 
 No errors were found when using the official W3C validator for HTML.
 
-### CSS
+## CSS
 
 No errors were found when using the official (Jigsaw) validator for CSS.
 
