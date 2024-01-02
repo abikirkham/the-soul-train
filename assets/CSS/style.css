@@ -120,7 +120,7 @@ label {
     display: none;
     top: 127px;
     position: fixed;
-    padding: 20px, 20px;
+    padding: 20px 20px;
     background-color: #333;
     z-index: 1;
     text-align: center;
@@ -315,7 +315,7 @@ form button a {
     color: #333;
     text-decoration: none;
     border-radius: 5px;
-    transition: background-color 0.3s;
+    transition: 0.3s;
 }
 
 form button:hover a {
