@@ -1,6 +1,6 @@
 # The Soul Lane: Navigating Life with Mindfulness and Meditation :lotus_position_woman:
 
-Welcome to **The Soul Lane**, your digital haven designed to help you navigate the challenges of modern life through the power of mindfulness and meditation. In today's fast-paced world, rife with stress and anxiety, this sanctuary offers inner peace and resilience, empowering you to discover clarity in the midst of chaos for a happier and healthier life. The live link can be accessed [here](<https://abikirkham.github.io/the-soul-train/index.html>).
+Welcome to **The Soul Lane**, your digital haven designed to help you navigate the challenges of modern life through the power of mindfulness and meditation. In today's fast-paced world, rife with stress and anxiety, this sanctuary offers inner peace and resilience, empowering you to discover clarity in the midst of chaos for a happier and healthier life. 
 
 ## My Vision
 
@@ -8,7 +8,7 @@ At *The Soul Lane*, I promote mindfulness and meditation as essential practices 
 
 ### Live Site
 
-[Explore The Soul Train](#https://abikirkham.github.io/the-soul-train/index.html) 
+[Explore The Soul Train](<https://abikirkham.github.io/the-soul-train/index.html>) 
 
 ### Repository
 
