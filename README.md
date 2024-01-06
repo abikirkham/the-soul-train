@@ -6,6 +6,71 @@ Welcome to **The Soul Lane**, your digital haven designed to help you navigate t
 
 At *The Soul Lane*, I promote mindfulness and meditation as essential practices for overall well-being. Understanding the demands of modern life, my vision is to provide accessible guidance for managing stress, anxiety, and daily challenges. Through mindfulness and meditation, discover a sense of balance and harmony amidst the chaos.
 
+### Live Site
+
+[Explore The Soul Train](#https://abikirkham.github.io/the-soul-train/index.html) 
+
+### Repository
+
+Check out the [The Soul Train][soultrain-link] repository for creative inspiration.
+
+...
+
+[soultrain-link]: https://github.com/abikirkham/the-soul-train.git
+
+## Technologies Used
+
+- **HTML/CSS:** Frontend styling and structure.
+- **GitHub/Gitpod:** Version control and collaboration.
+
+## User Stories
+
+### Beginner Yogi
+
+1. **View Class Schedules:**
+   - As a beginner yogi, I want to easily access the class schedules on The Soul Lane, so I can plan my yoga sessions accordingly.
+
+2. **Class Information:**
+   - As a beginner yogi, I want detailed information on what to expect in each class, including the type of yoga and the focus of the session.
+
+3. **Contact Page:**
+   - As a beginner yogi, I want an easy-to-navigate contact page where I can ask questions about the classes or seek guidance from experienced professionals.
+
+### Yoga Professional
+
+4. **Join The Soul Lane Team:**
+   - As a yoga professional, I want to find information on how to sign up and join The Soul Lane team as an instructor.
+
+5. **Explore Class Schedules:**
+   - As a yoga professional, I want to explore the class schedules and understand the class structure to align with my expertise.
+
+6. **Contact The Soul Lane Team:**
+   - As a yoga professional, I want a straightforward contact page to connect with The Soul Lane team for any inquiries or to express interest in joining as an instructor.
+
+### Sound Healing Enthusiast
+
+7. **Access Audio Section:**
+   - As a user interested in sound healing, I want to access an audio section dedicated to sound healing, where I can find guided sessions or ambient sounds to enhance my yoga experience.
+
+8. **Usage Instructions:**
+   - As a user interested in sound healing, I want clear instructions on how to use the audio section and integrate it into my yoga practice.
+
+### Equipment Guidelines
+
+9. **Information on Equipment:**
+   - As a participant, beginner, or professional, I want to have access to an information page that guides me on what equipment to bring for each class.
+
+10. **Understanding Equipment Importance:**
+    - As a participant, beginner, or professional, I want to understand the importance of specific equipment and how it contributes to the overall yoga experience.
+
+### Reconnecting with Yoga
+
+11. **Inclusive Platform:**
+    - As a user looking to reconnect with yoga, I want a platform that caters to both beginners and professionals, allowing me to start my yoga journey or deepen my practice.
+
+12. **User-Friendly Interface:**
+    - As a user looking to reconnect with yoga, I want a user-friendly interface that provides a seamless experience, making it easy to explore classes, schedules, and additional resources.
+
 ## Features to Empower You
 
 ### Home Page
@@ -120,7 +185,7 @@ The home page form was tested for both correct and incorrect inputs, covering va
 
 The form submits successfully with no errors, redirecting to index.html.
 
-## Scenarios Two to Six
+## Scenarios Two - Email Formats 
 
 These scenarios were tested for missing required fields and incorrect email formats. In each case, the form behaves correctly, displaying the necessary errors and not submitting the form.
 
