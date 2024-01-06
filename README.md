@@ -227,15 +227,6 @@ This project, *The Soul Lane*, is deployed using GitHub pages using the followin
 - Under Source, select the None tab and change it to Main and click Save.
 - Finally once the page resets scroll back down to the GitHub Pages Section to see the following message "Your site is ready to be published at (Link to the GitHub Page Web Address)". It can take time for the link to open your project initially, so please don't be worried if it down not load immediately.
 
-### Forking the Github Repository
-
-You can fork a GitHub Repository to make a copy of the original repository to view or make changes without it affecting the original repository.
-
-### Find the GitHub repository.
-
-- At the top of the page to the right, under your account, click the Fork button.
-- You will now have a copy of the repository in your GitHub account.
-
 ### Making a Local Clone
 
 - Find the GitHub Repository.
