@@ -6,6 +6,25 @@ Welcome to **The Soul Train**, your digital haven designed to help you navigate 
 
 At *The Soul Train*, I promote mindfulness and meditation as essential practices for overall well-being. Understanding the demands of modern life, my vision is to provide accessible guidance for managing stress, anxiety, and daily challenges. Through mindfulness and meditation, discover a sense of balance and harmony amidst the chaos.
 
+## Contents
+- [Overview](#overview)
+- [Existing Features](#existing-features)
+  - [Navigation Bar](#navigation-bar)
+  - [Landing Page](#landing-page)
+  - [Club Ethos](#club-ethos)
+  - [Meetup Times](#meetup-times)
+  - [Footer](#footer)
+- [Testing](#testing)
+  - [Responsiveness](#responsiveness)
+  - [Accessibility](#accessibility)
+  - [Functional Testing](#functional-testing)
+  - [Form Testing](#form-testing)
+  - [Validator Testing](#validator-testing)
+- [Deployment](#deployment)
+  - [Github](#github)
+  - [Making a Local Clone](#making-a-local-clone)
+- [Credits](#credits)
+
 ### Live Site
 
 [Explore The Soul Train](https://abikirkham.github.io/the-soul-train/index.html)
