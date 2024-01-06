@@ -7,7 +7,8 @@ Welcome to **The Soul Train**, your digital haven designed to help you navigate 
 At *The Soul Train*, I promote mindfulness and meditation as essential practices for overall well-being. Understanding the demands of modern life, my vision is to provide accessible guidance for managing stress, anxiety, and daily challenges. Through mindfulness and meditation, discover a sense of balance and harmony amidst the chaos.
 
 ## Contents
-- [Overview](#overview)
+- [User Stories](#user-stories)
+- [Features to Empower You](#features-to-empower-you)
 - [Existing Features](#existing-features)
   - [Navigation Bar](#navigation-bar)
   - [Landing Page](#landing-page)
