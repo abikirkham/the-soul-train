@@ -185,19 +185,16 @@ Manual tests were conducted to ensure accessibility without the need for additio
 ### 2. **Functionality Testing:**
    - Manually tested all interactive elements, forms, and features to verify their proper functioning under various scenarios.
 
-### 3. **Security Testing:**
-   - Conducted manual checks to ensure the implementation of secure practices and identify any potential security vulnerabilities.
-
-### 4. **Error Handling:**
+### 3. **Error Handling:**
    - Tested the website's response to various error scenarios, ensuring users receive clear and informative error messages.
 
-### 5. **Content Verification:**
+### 4. **Content Verification:**
    - Manually verified all textual content, images, and multimedia elements to ensure accuracy and alignment with the website's goals.
 
-### 6. **Performance Testing:**
+### 5. **Performance Testing:**
    - Manually assessed the website's performance, including page load times and overall responsiveness, to identify and address any performance bottlenecks.
 
-### 7. **Accessibility Testing:**
+### 6. **Accessibility Testing:**
     - Manually navigated the website using keyboard-only controls, screen readers, and other assistive technologies to ensure compliance with accessibility standards.
 
 ## Functional Testing
