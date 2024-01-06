@@ -211,7 +211,7 @@ This README summarises the testing conducted on The Soul Train website. The webs
 
 
 **Issue #1:**
-Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which i found from Microaoft word keyboard.
+Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which I found from Microsoft word keyboard.
 
 ## Deployment
 
