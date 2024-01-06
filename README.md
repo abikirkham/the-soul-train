@@ -179,15 +179,21 @@ All links navigated to the correct pages as expected.
 
 ## Form Testing
 
-The home page form was tested for both correct and incorrect inputs, covering various scenarios.
+The site was tested for both correct and incorrect inputs, covering various scenarios.
 
 ## Scenario One - Correct Inputs
 
-The form submits successfully with no errors, redirecting to index.html.
+The sign up form submits successfully with no errors, redirecting to index.html.
 
-## Scenarios Two - Email Formats 
+## Scenario Two - ALTs for images, audio and background
 
-These scenarios were tested for missing required fields and incorrect email formats. In each case, the form behaves correctly, displaying the necessary errors and not submitting the form.
+Following the correct structure provided by the LoveRunning Project inout media by code institute but appyling it to my soundheaing section- ensureing i was following the right path and covering all bases, ensuring it worked by running this through on different browsers and passing through the W3C validator ensuring there were no errors. Also testing on different browsers and devices to ensure this pulled through on all. 
+
+## Scenario Three - Sizing on images on different screen sizes
+
+With the support and guidance with the communities on slack and from tutors at code institute providing my with all information on how to adjust the images form not only moving different sizes but also not stretching or pixalting, advices as seen from the images below.
+
+![Advice](docs/README-images/advice.jpg)
 
 # Validator Testing
 
