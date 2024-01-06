@@ -1,14 +1,14 @@
-# The Soul Lane: Navigating Life with Mindfulness and Meditation :lotus_position_woman:
+# The Soul Train: Navigating Life with Mindfulness and Meditation :lotus_position_woman:
 
-Welcome to **The Soul Lane**, your digital haven designed to help you navigate the challenges of modern life through the power of mindfulness and meditation. In today's fast-paced world, rife with stress and anxiety, this sanctuary offers inner peace and resilience, empowering you to discover clarity in the midst of chaos for a happier and healthier life. 
+Welcome to **The Soul Train**, your digital haven designed to help you navigate the challenges of modern life through the power of mindfulness and meditation. In today's fast-paced world, rife with stress and anxiety, this sanctuary offers inner peace and resilience, empowering you to discover clarity in the midst of chaos for a happier and healthier life.
 
 ## My Vision
 
-At *The Soul Lane*, I promote mindfulness and meditation as essential practices for overall well-being. Understanding the demands of modern life, my vision is to provide accessible guidance for managing stress, anxiety, and daily challenges. Through mindfulness and meditation, discover a sense of balance and harmony amidst the chaos.
+At *The Soul Train*, I promote mindfulness and meditation as essential practices for overall well-being. Understanding the demands of modern life, my vision is to provide accessible guidance for managing stress, anxiety, and daily challenges. Through mindfulness and meditation, discover a sense of balance and harmony amidst the chaos.
 
 ### Live Site
 
-[Explore The Soul Train](<https://abikirkham.github.io/the-soul-train/index.html>) 
+[Explore The Soul Train](https://abikirkham.github.io/the-soul-train/index.html)
 
 ### Repository
 
@@ -28,7 +28,7 @@ Check out the [The Soul Train][soultrain-link] repository for creative inspirati
 ### Beginner Yogi
 
 1. **View Class Schedules:**
-   - As a beginner yogi, I want to easily access the class schedules on The Soul Lane, so I can plan my yoga sessions accordingly.
+   - As a beginner yogi, I want to easily access the class schedules on The Soul Train, so I can plan my yoga sessions accordingly.
 
 2. **Class Information:**
    - As a beginner yogi, I want detailed information on what to expect in each class, including the type of yoga and the focus of the session.
@@ -38,14 +38,14 @@ Check out the [The Soul Train][soultrain-link] repository for creative inspirati
 
 ### Yoga Professional
 
-4. **Join The Soul Lane Team:**
-   - As a yoga professional, I want to find information on how to sign up and join The Soul Lane team as an instructor.
+4. **Join The Soul Train Team:**
+   - As a yoga professional, I want to find information on how to sign up and join The Soul Train team as an instructor.
 
 5. **Explore Class Schedules:**
    - As a yoga professional, I want to explore the class schedules and understand the class structure to align with my expertise.
 
-6. **Contact The Soul Lane Team:**
-   - As a yoga professional, I want a straightforward contact page to connect with The Soul Lane team for any inquiries or to express interest in joining as an instructor.
+6. **Contact The Soul Train Team:**
+   - As a yoga professional, I want a straightforward contact page to connect with The Soul Train team for any inquiries or to express interest in joining as an instructor.
 
 ### Sound Healing Enthusiast
 
@@ -101,7 +101,7 @@ Consistent across all pages, ensuring smooth and intuitive navigation for a seam
 ![Nav Menu](docs/README-images/Nav-img.jpg)
 
 ### Landing Page
-A captivating point of entry with visually appealing, simplistic classe timetables, introducing the mission of *The Soul Lane*. Creating easy access for those who have accessed the page previosuly and wanted to jump straight to the classes. 
+A captivating point of entry with visually appealing, simplistic classe timetables, introducing the mission of *The Soul Train*. Creating easy access for those who have accessed the page previosuly and wanted to jump straight to the classes.
 
 ### Club Ethos
 Outlining the benefits of joining youga, pilates and medication for beginners, encouraging peacefullness to the soul, joinginh the training journey.
@@ -115,8 +115,6 @@ Crucial and real-time information about the schedules, introductions, and defint
 ### Footer
 Strategically positioned footer, reminding this is for beginners.
 ![Footer](docs/README-images/Footer.jpg)
-
-
 
 # Testing
 
@@ -158,7 +156,6 @@ Utilize the Wave Accessibility tool for ongoing development and final testing. C
 7. Implement Aria properties in adherence to best practices outlined in WCAG 2.1.
 8. Follow established coding best practices for WCAG 2.1.
 
-
 ### Manual Tests
 
 Manual tests were conducted to ensure accessibility without the need for additional details about specific issues.
@@ -187,7 +184,7 @@ The sign up form submits successfully with no errors, redirecting to index.html.
 
 ### Scenario Two - ALTs for images, audio and background
 
-Following the correct structure provided by the LoveRunning Project inout media by code institute but appyling it to my soundheaing section- ensureing i was following the right path and covering all bases, ensuring it worked by running this through on different browsers and passing through the W3C validator ensuring there were no errors. Also testing on different browsers and devices to ensure this pulled through on all. 
+Following the correct structure provided by the LoveRunning Project inout media by code institute but appyling it to my soundheaing section- ensureing i was following the right path and covering all bases, ensuring it worked by running this through on different browsers and passing through the W3C validator ensuring there were no errors. Also testing on different browsers and devices to ensure this pulled through on all.
 
 ### Scenario Three - Sizing on images on different screen sizes
 
@@ -209,15 +206,13 @@ No errors were found when using the official (Jigsaw) validator for CSS.
 
 This README summarises the testing conducted on The Soul Train website. The website was found to be responsive, accessible, and functional across various browsers and devices.
 
-
-**Issue #1:**
-Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which I found from Microsoft word keyboard.
+**Issue #1:** Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which I found from Microsoft word keyboard.
 
 ## Deployment
 
 ### Github
 
-This project, *The Soul Lane*, is deployed using GitHub pages using the following process,
+This project, *The Soul Train*, is deployed using GitHub pages using the following process,
 
 ### Deploying a GitHub Repository via GitHub Pages
 
@@ -225,7 +220,7 @@ This project, *The Soul Lane*, is deployed using GitHub pages using the followin
 - In the top horizontal Menu, locate and click the Settings link.
 - Inside the Setting page, around halfway down locate the GitHub Pages Section.
 - Under Source, select the None tab and change it to Main and click Save.
-- Finally once the page resets scroll back down to the GitHub Pages Section to see the following message "Your site is ready to be published at (Link to the GitHub Page Web Address)". It can take time for the link to open your project initially, so please don't be worried if it down not load immediately.
+- Finally once the page resets scroll back down to the GitHub Pages Section to see the following message "Your site is ready to be published at (Link to the GitHub Page Web Address)". It can take time for the link to open your project initially, so please don't be worried if it does not load immediately.
 
 ### Making a Local Clone
 
@@ -240,8 +235,7 @@ This project, *The Soul Lane*, is deployed using GitHub pages using the followin
 
 I extend gratitude to Code Institute for knowledge in HTML and CSS, enabling me to bring my ideas to life. The transformative journey from a nursing career to coding unveiled the healing power of meditation and yoga, essential tools in navigating the transition.
 
-I have taken some skills I have learnt from code institute such as the drop down boxes and incorporated it with some extra leanring on navigation options, which can be found [here](<https://www.youtube.com/watch?v=iXKScihfSwE>).
+I have taken some skills I have learnt from code institute such as the drop down boxes and incorporated it with some extra learning on navigation options, which can be found [here](https://www.youtube.com/watch?v=iXKScihfSwE).
 
-Creating better visual effects for my users experience was impirtant,I added an extra colour to links for users to know it was a link when they hovered their cursor of over the link. I got this informstion from [here](<https://developer.mozilla.org/en-US/docs/Web/CSS/:hover#>). 
+Creating better visual effects for my users' experience was important. I added an extra color to links for users to know it was a link when they hovered their cursor over the link. I got this information from [here](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover#). As well as creating a background which relates to the activities of the page - this to me, created a chance for users to get a feel of what they could experience when practicing our yoga. The images used were sourced from [freeimages](https://www.freeimages.com), and I then created the background using this [app](https://www.sketchbook.com) by collating the images and adding a shadow to the images on top so this would not be harsh on the eyes.
 
-Finally, I wanted to create a simple, soft, emotional vibe to my styles, by adding the opaque style to the containers - information found [here](<https://developer.mozilla.org/en-US/docs/Learn/CSS/Howto/Make_box_transparent>). Aswell as creating a background which relates to the activties of the page - this to me, created a chnnce for users to get a feel of what they could experience when practising our yoga. The images used were sourced from [freeimages](<https://www.freeimages.com>) I then created the background using this [app](<https://www.sketchbook.com>) by collating the images and added a shadow to the images on top so this would not be harsh on the eyes.
