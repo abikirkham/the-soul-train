@@ -197,6 +197,8 @@ Navigation links on the respective pages were tested for correctness, ensuring t
 - Classes links to classed.html.
 - The sign up page links to contact.html.
 - All blogs can be seen under blogs.html with hidden htmls under the 'Read More' section for the 5 different blogs.
+- Redirection from thank you page goes to 'index.html'.
+
 
 All links navigated to the correct pages as expected.
 
