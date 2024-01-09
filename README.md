@@ -275,9 +275,16 @@ This project, *The Soul Train*, is deployed using GitHub pages using the followi
 
 # Credits
 
-I extend gratitude to Code Institute for knowledge in HTML and CSS, enabling me to bring my ideas to life. The transformative journey from a nursing career to coding unveiled the healing power of meditation and yoga, essential tools in navigating the transition.
+## Coding instructions
+* Inspiration from Love Running project provided by Code Institute
+* https://developer.mozilla.org/en-US/docs/Web/CSS/:hover# for hover effect
+* https://www.youtube.com/watch?v=iXKScihfSwE for navigation 
+* w3schools
+* Signup form and redirection page from mentor Gareth McGirr Tacos Travels
+* Flexbox:
+    * Daisy McGirr
 
-I have taken some skills I have learnt from code institute such as the drop down boxes and incorporated it with some extra learning on navigation options, which can be found [here](https://www.youtube.com/watch?v=iXKScihfSwE).
-
-Creating better visual effects for my users' experience was important. I added an extra color to links for users to know it was a link when they hovered their cursor over the link. I got this information from [here](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover#). As well as creating a background which relates to the activities of the page - this to me, created a chance for users to get a feel of what they could experience when practicing our yoga. The images used were sourced from [freeimages](https://www.freeimages.com), and I then created the background using this [app](https://www.sketchbook.com) by collating the images and adding a shadow to the images on top so this would not be harsh on the eyes.
-
+## Media
+Photos taken from  freeimages
+To create the styles of the background using the images, I used this app
+Audio taken from https://stock.adobe.com/uk/search/audio?k=356526657 
