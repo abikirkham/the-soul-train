@@ -184,11 +184,11 @@ Utilise the Wave Accessibility tool for ongoing development and final testing. C
   <img src="docs/README-images/lighthouse-fix.jpg" width="600">
 
 - Below you can see the Lighthouse results for all pages
-  <img src="docs/README-images/lighthouse-index.jpg" width="500">
-  <img src="docs/README-images/lighthouse-about.jpg" width="500">
-  <img src="docs/README-images/lighthouse-classes.jpg" width="500">
-  <img src="docs/README-images/lighthouse-contact.jpg" width="500">
-  <img src="docs/README-images/lighthouse-signup.jpg" width="500">
+  <img src="docs/README-images/WireframeP1-index.jpg" width="500">
+  <img src="docs/README-images/WireframeP1e-about.jpg" width="500">
+  <img src="docs/README-images/WireframeP1-classes.jpg" width="500">
+  <img src="docs/README-images/WireframeP1-contact.jpg" width="500">
+  <img src="docs/README-images/WireframeP1-signup.jpg" width="500">
       
 ## Functional Testing
 
