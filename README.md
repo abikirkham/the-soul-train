@@ -212,8 +212,10 @@ Following the correct structure provided by the LoveRunning Project inout media 
 
 ## Unfixed Errors
 
-With the support and guidance with the communities on slack and from tutors at code institute providing my with all information on how to adjust the images on multi sized screens to fit in the containers.
+**Issue #1:** With the support and guidance with the communities on slack and from tutors at code institute providing my with all information on how to adjust the images on multi sized screens to fit in the containers.
 ![Advice](docs/README-images/advice.jpg)
+
+**Issue #2:** Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which I found from Microsoft word keyboard.
 
 
 # Validator Testing
@@ -228,12 +230,6 @@ No errors were found when using the official W3C validator for HTML.
 No errors were found when using the official (Jigsaw) validator for CSS.
 ![Jigsaw Validator Results](docs/README-images/jigsaw-validator.jpg)
 
-
----
-
-This README summarises the testing conducted on The Soul Train website. The website was found to be responsive, accessible, and functional across various browsers and devices.
-
-**Issue #1:** Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which I found from Microsoft word keyboard.
 
 ## Deployment
 
