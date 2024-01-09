@@ -1,5 +1,5 @@
 # The Soul Train: Navigating Life with Mindfulness and Meditation :lotus_position_woman:
-![Mockup](docs/README-images/mockup-p1.jpg width=100)
+![Mockup](docs/README-images/mockup-p1.jpg | width=100)
 
 ## Contents
 - [My vision](#my-vision)
@@ -17,11 +17,11 @@ Welcome to **The Soul Train**, I started Soul Train to help people like me who j
 
 ### Live Site
 
-[Explore The Soul Train](https://abikirkham.github.io/the-soul-train/index.html width=100)
+[Explore The Soul Train](https://abikirkham.github.io/the-soul-train/index.html | width=100)
 
 ### Repository
 
-[The Soul Train repository viewed on GitHub](https://github.com/abikirkham/the-soul-train.git width=100)
+[The Soul Train repository viewed on GitHub](https://github.com/abikirkham/the-soul-train.git | width=100)
 
 
 ## Technologies Used
