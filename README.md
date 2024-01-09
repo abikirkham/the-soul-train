@@ -272,8 +272,6 @@ This project, *The Soul Train*, is deployed using GitHub pages using the followi
 * https://www.youtube.com/watch?v=iXKScihfSwE for navigation bar
 * w3schools to remind me throughout on the proper structure/ written code
 * Signup form and redirection page from mentor Gareth McGirr Tacos Travels
-* Flexbox:
-    * Daisy McGirr
 * README image sizes - https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
 
 ## Media
