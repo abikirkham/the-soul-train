@@ -131,7 +131,11 @@ Crucial and real-time information about the schedules, introductions, and defint
 Strategically positioned footer, reminding this is for beginners.
 <img src="docs/README-images/Footer.jpg" width="700">
 
-
+# Wireframes
+<img src="docs/README-images/wifreframeP1-index.jpg" width="700">
+<img src="docs/README-images/wifreframeP1-about.jpg" width="700">
+<img src="docs/README-images/wifreframeP1-classes.jpg" width="700">
+<img src="docs/README-images/wifreframeP1-signup.jpg" width="700">
 
 
 # Testing
