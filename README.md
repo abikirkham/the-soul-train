@@ -132,10 +132,10 @@ Strategically positioned footer, reminding this is for beginners.
 <img src="docs/README-images/Footer.jpg" width="700">
 
 # Wireframes
-<img src="docs/README-images/WireframeP1index.jpg" width="500">
-<img src="docs/README-images/WireframeP1about.jpg" width="500">
-<img src="docs/README-images/WireframeP1classes.jpg" width="500">
-<img src="docs/README-images/WireframeP1signup.jpg" width="500">
+<img src="docs/README-images/WireframeP1index.jpg" width="300">
+<img src="docs/README-images/WireframeP1about.jpg" width="300">
+<img src="docs/README-images/WireframeP1classes.jpg" width="300">
+<img src="docs/README-images/WireframeP1signup.jpg" width="300">
 
 
 # Testing
