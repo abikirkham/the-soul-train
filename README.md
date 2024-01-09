@@ -4,8 +4,8 @@
 ## Contents
 - [My vision](#my-vision)
 - [User Stories](#user-stories)
-- [Features to Empower You](#features-to-empower-you)
-- [Existing Features](#existing-features)
+- [Features](#features)
+- [Intricate Features](#intricate-features)
   - [Navigation Bar](#navigation-bar)
   - [Landing Page](#landing-page)
   - [Club Ethos](#club-ethos)
@@ -23,7 +23,6 @@
 - [Credits](#credits)
 
 
-...
 ## My Vision
 
 Welcome to **The Soul Train**, your digital haven designed to help you navigate the challenges of modern life through the power of mindfulness and meditation. In today's fast-paced world, rife with stress and anxiety, this sanctuary offers inner peace and resilience, empowering you to discover clarity in the midst of chaos for a happier and healthier life. At *The Soul Train*, I promote mindfulness and meditation as essential practices for overall well-being. Understanding the demands of modern life, my vision is to provide accessible guidance for managing stress, anxiety, and daily challenges. Through mindfulness and meditation, discover a sense of balance and harmony amidst the chaos.
@@ -36,8 +35,6 @@ Welcome to **The Soul Train**, your digital haven designed to help you navigate 
 ### Repository
 
 [The Soul Train repository viewed on GitHub](https://github.com/abikirkham/the-soul-train.git)
-
-...
 
 
 ## Technologies Used
@@ -93,7 +90,7 @@ Welcome to **The Soul Train**, your digital haven designed to help you navigate 
 12. **User-Friendly Interface:**
     - As a user looking to reconnect with yoga, I want a user-friendly interface that provides a seamless experience, making it easy to explore classes, schedules, and additional resources.
 
-## Features to Empower You
+## Features
 
 ### Home Page
 Your digital doorway featuring engaging visuals, concise descriptions, and inspirational quotes. The home page aims to pique curiosity and inspire a deeper exploration.
@@ -116,7 +113,7 @@ Insightful blogs on mindful eating and crystals provide knowledge and skills to 
 Establish a direct line of communication for personalized guidance, fostering a sense of belonging and support.
 ![Contact](docs/README-images/signup.jpg)
 
-## Existing Features
+## Intricate Features
 
 ### Navigation Bar
 Consistent across all pages, ensuring smooth and intuitive navigation for a seamless user experience. Creating a smooth interaction which can be seen easy on the eyes ... *almost peaceful.*
@@ -125,8 +122,12 @@ Consistent across all pages, ensuring smooth and intuitive navigation for a seam
 ### Landing Page
 A captivating point of entry with visually appealing, simplistic classe timetables, introducing the mission of *The Soul Train*. Creating easy access for those who have accessed the page previosuly and wanted to jump straight to the classes.
 
+### Audio
+I have added an audio section to the yoga website, offering soothing sound healing sessions, allowing you to experience the calming effects and providing a convenient option for practicing at home.
+![audio](docs/README-images/audio.jpg)
+
 ### Club Ethos
-Outlining the benefits of joining youga, pilates and medication for beginners, encouraging peacefullness to the soul, joinginh the training journey.
+Outlining the benefits of joining yoga, pilates and medication for beginners, encouraging peacefullness to the soul, joinginh the training journey.
 
 ### Meetup Times
 Crucial and real-time information about the schedules, introductions, and defintions for what each class means.
@@ -137,6 +138,8 @@ Crucial and real-time information about the schedules, introductions, and defint
 ### Footer
 Strategically positioned footer, reminding this is for beginners.
 ![Footer](docs/README-images/Footer.jpg)
+
+
 
 # Testing
 
