@@ -135,9 +135,6 @@ Strategically positioned footer, reminding this is for beginners.
 
 # Testing
 
-## Overview
-
-This README section provides a summary of testing conducted on The Soul Train website to ensure its functionality, responsiveness, and accessibility. The testing covers various aspects, including responsiveness, accessibility, functional testing, form testing, and validator testing.
 
 ## Responsiveness
 
@@ -162,7 +159,7 @@ The website behaved as expected.
 
 ## Accessibility
 
-Utilize the Wave Accessibility tool for ongoing development and final testing. Concentrate on the following criteria:
+Utilise the Wave Accessibility tool for ongoing development and final testing. Concentrate on the following criteria:
 
 1. Ensure all forms have associated labels or appropriate aria-labels.
 2. Validate that color contrasts meet the minimum ratios outlined in WCAG 2.1 Contrast Guidelines.
@@ -173,32 +170,19 @@ Utilize the Wave Accessibility tool for ongoing development and final testing. C
 7. Implement Aria properties in adherence to best practices outlined in WCAG 2.1.
 8. Follow established coding best practices for WCAG 2.1.
 
-### Manual Tests
+## Manual Tests
 
-Manual tests were conducted to ensure accessibility without the need for additional details about specific issues.
-### 1. **Usability Testing:**
-   - Invited friends and real users to navigate the site for the first time, gathering feedback on user interface intuitiveness, navigation flow, and overall user experience.
-
-### 2. **Functionality Testing:**
-   - Manually tested all interactive elements, forms, and features to verify their proper functioning under various scenarios.
-
-### 3. **Error Handling:**
-   - Tested the website's response to various error scenarios, ensuring users receive clear and informative error messages.
-
-### 4. **Content Verification:**
-   - Manually verified all textual content, images, and multimedia elements to ensure accuracy and alignment with the website's goals.
-
-### 5. **Performance Testing:**
-   - Manually assessed the website's performance, including page load times and overall responsiveness, to identify and address any performance bottlenecks.
-
-### 6. **Accessibility Testing:**
-    - Manually navigated the website using keyboard-only controls, screen readers, and other assistive technologies to ensure compliance with accessibility standards.
-
-## Lighthouse Testing
+### Lighthouse Testing
 - Integrated into Chrome Developer Tools or available as a standalone tool.
 - I improved my website's loading speed by downloading the background image to my local assets and updating the CSS link from an HTTPS URL to the local path, as seen below this imporved the lighthouse score.
   ![Lighthouse Score 1](docs/README-images/lighthouse-error.jpg)
   ![Lighthouse Score 2](docs/README-images/lighthouse-fix.jpg)
+- Below you can see the Lighthouse results for all pages
+  ![Lighthouse Score 1](docs/README-images/lighthouse-index.jpg)
+  ![Lighthouse Score 1](docs/README-images/lighthouse-about.jpg)
+  ![Lighthouse Score 1](docs/README-images/lighthouse-classes.jpg)
+  ![Lighthouse Score 1](docs/README-images/lighthouse-contact.jpg)
+  ![Lighthouse Score 1](docs/README-images/lighthouse-blog.jpg)
   
 ## Functional Testing
 
@@ -226,11 +210,11 @@ The sign up form submits successfully with no errors, redirecting to index.html.
 
 Following the correct structure provided by the LoveRunning Project inout media by code institute but appyling it to my soundheaing section- ensureing i was following the right path and covering all bases, ensuring it worked by running this through on different browsers and passing through the W3C validator ensuring there were no errors. Also testing on different browsers and devices to ensure this pulled through on all.
 
-### Scenario Three - Sizing on images on different screen sizes
+## Unfixed Errors
 
-With the support and guidance with the communities on slack and from tutors at code institute providing my with all information on how to adjust the images form not only moving different sizes but also not stretching or pixalting, advices as seen from the images below.
-
+With the support and guidance with the communities on slack and from tutors at code institute providing my with all information on how to adjust the images on multi sized screens to fit in the containers.
 ![Advice](docs/README-images/advice.jpg)
+
 
 # Validator Testing
 
