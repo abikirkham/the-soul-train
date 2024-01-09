@@ -86,50 +86,51 @@ Welcome to **The Soul Train**, I started Soul Train to help people like me who j
 
 ### Home Page
 Your digital doorway featuring engaging visuals, concise descriptions, and inspirational quotes. The home page aims to pique curiosity and inspire a deeper exploration.
-![Home](docs/README-images/homepage.jpg)
+<img src="docs/README-images/homepage.jpg" width="300">
 
 ### About Page :dizzy:
 
 Explore the heart of my mission, offering resources like sound healing audio and yoga essentials for an enhanced mindfulness journey.
-![About](docs/README-images/about-us-page.jpg)
+<img src="docs/README-images/about-us-page.jpg" width="300">
 
 ### Class Schedule Page :calendar:
 Access an updated schedule of yoga, pilates, and meditation classes for active participation and seamless integration into daily routines.
-![Classes](docs/README-images/class-schedule.jpg)
+<img src="docs/README-images/class-schedule.jpg" width="300">
 
 ### Blog Page
 Insightful blogs on mindful eating and crystals provide knowledge and skills to enhance your mindfulness journey.
-![Blogs](docs/README-images/blog-page.jpg)
+<img src="docs/README-images/blog-page.jpg" width="300">
 
 ### Contact Page
 Establish a direct line of communication for personalized guidance, fostering a sense of belonging and support.
-![Contact](docs/README-images/signup.jpg)
+<img src="docs/README-images/signup.jpg" width="300">
 
 # Intricate Features
 
 ### Navigation Bar
 Consistent across all pages, ensuring smooth and intuitive navigation for a seamless user experience. Creating a smooth interaction which can be seen easy on the eyes ... *almost peaceful.*
-![Nav Menu](docs/README-images/Nav-img.jpg)
+<img src="docs/README-images/Nav-img.jpg" width="300">
 
 ### Landing Page
 A captivating point of entry with visually appealing, simplistic classe timetables, introducing the mission of *The Soul Train*. Creating easy access for those who have accessed the page previosuly and wanted to jump straight to the classes.
 
 ### Audio
 I have added an audio section to the yoga website, offering soothing sound healing sessions, allowing you to experience the calming effects and providing a convenient option for practicing at home.
-![audio](docs/README-images/audio.jpg)
+<img src="docs/README-images/audio.jpg" width="300">
 
 ### Club Ethos
 Outlining the benefits of joining yoga, pilates and medication for beginners, encouraging peacefullness to the soul, joinginh the training journey.
 
 ### Meetup Times
 Crucial and real-time information about the schedules, introductions, and defintions for what each class means.
-![Pilates](docs/README-images/pilates-classes.jpg)
-![Yoga](docs/README-images/yoga-classes.jpg)
-![Meditation](docs/README-images/meditation-classes.jpg)
+<img src="docs/README-images/pilates-classes.jpg" width="300">
+<img src="docs/README-images/yoga-classes.jpg" width="300">
+<img src="docs/README-images/meditation-classes.jpg" width="300">
 
 ### Footer
 Strategically positioned footer, reminding this is for beginners.
-![Footer](docs/README-images/Footer.jpg)
+<img src="docs/README-images/Footer.jpg" width="300">
+
 
 
 
@@ -175,15 +176,16 @@ Utilise the Wave Accessibility tool for ongoing development and final testing. C
 ### Lighthouse Testing
 - Integrated into Chrome Developer Tools or available as a standalone tool.
 - I improved my website's loading speed by downloading the background image to my local assets and updating the CSS link from an HTTPS URL to the local path, as seen below this imporved the lighthouse score.
-  ![Lighthouse Score 1](docs/README-images/lighthouse-error.jpg)
-  ![Lighthouse Score 2](docs/README-images/lighthouse-fix.jpg)
+  <img src="docs/README-images/lighthouse-error.jpg" width="300">
+  <img src="docs/README-images/lightouse-fix.jpg" width="300">
+
 - Below you can see the Lighthouse results for all pages
-  ![Lighthouse Score 1](docs/README-images/lighthouse-index.jpg)
-  ![Lighthouse Score 1](docs/README-images/lighthouse-about.jpg)
-  ![Lighthouse Score 1](docs/README-images/lighthouse-classes.jpg)
-  ![Lighthouse Score 1](docs/README-images/lighthouse-contact.jpg)
-  ![Lighthouse Score 1](docs/README-images/lighthouse-blog.jpg)
-  
+  <img src="docs/README-images/lighthouse-index.jpg" width="300">
+  <img src="docs/README-images/lighthouse-about.jpg" width="300">
+  <img src="docs/README-images/lighthouse-classes.jpg" width="300">
+  <img src="docs/README-images/lighthouse-contact.jpg" width="300">
+  <img src="docs/README-images/lighthouse-signup.jpg" width="300">
+      
 ## Functional Testing
 
 ### Navigation Links
@@ -213,7 +215,7 @@ Following the correct structure provided by the LoveRunning Project inout media 
 ## Unfixed Errors
 
 **Issue #1:** With the support and guidance with the communities on slack and from tutors at code institute providing my with all information on how to adjust the images on multi sized screens to fit in the containers.
-![Advice](docs/README-images/advice.jpg)
+ <img src="docs/README-images/advice.jpg" width="300">
 
 **Issue #2:** Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which I found from Microsoft word keyboard.
 
@@ -223,12 +225,12 @@ Following the correct structure provided by the LoveRunning Project inout media 
 ## HTML
 
 No errors were found when using the official W3C validator for HTML.
-![W3C Validator Results](docs/README-images/w3c-validator.jpg)
+ <img src="docs/README-images/w3c-validator.jpg" width="300">
 
 ## CSS
 
 No errors were found when using the official (Jigsaw) validator for CSS.
-![Jigsaw Validator Results](docs/README-images/jigsaw-validator.jpg)
+ <img src="docs/README-images/jigsaw-validator.jpg" width="300">
 
 
 ## Deployment
