@@ -1,6 +1,5 @@
 # The Soul Train: Navigating Life with Mindfulness and Meditation :lotus_position_woman:
-![Mockup](docs/README-images/mockup-p1.jpg)
-<img src="docs/README-images/mockup-p1.jpg" width="100" height="100">
+<img src="docs/README-images/mockup-p1.jpg" width="300">
 
 ## Contents
 - [My vision](#my-vision)
