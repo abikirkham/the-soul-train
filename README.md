@@ -92,6 +92,12 @@ Welcome to **The Soul Train**, your digital haven designed to help you navigate 
 
 # Features
 
+### Favicon
+[The Favicon](https://favicon.io) which is an emoji to associate my website to the content to give this an idetity, as seen below.
+
+![Icon](#docs/README-images/icon.jpg)
+![View in Tab](#docs/README-images/tab.jpg)
+
 ### Home Page
 Your digital doorway featuring engaging visuals, concise descriptions, and inspirational quotes. The home page aims to pique curiosity and inspire a deeper exploration.
 ![Home](docs/README-images/homepage.jpg)
