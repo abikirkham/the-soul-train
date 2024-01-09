@@ -1,5 +1,5 @@
 # The Soul Train: Navigating Life with Mindfulness and Meditation :lotus_position_woman:
-
+![Mockup](docs/README-images/mockup-p1.jpg)
 Welcome to **The Soul Train**, your digital haven designed to help you navigate the challenges of modern life through the power of mindfulness and meditation. In today's fast-paced world, rife with stress and anxiety, this sanctuary offers inner peace and resilience, empowering you to discover clarity in the midst of chaos for a happier and healthier life.
 
 ## My Vision
