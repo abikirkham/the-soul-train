@@ -138,7 +138,7 @@ label {
 
 /* Background image for the main content */
 main {
-    background-image: url("https://i.ibb.co/fCGgSKn/yoga-background-img.png");
+    background-image: url("css/images/background-img.jpg");
     background-size: cover;
     background-repeat: repeat;
     margin-top: 140px;
