@@ -42,7 +42,7 @@ Welcome to **The Soul Train**, your digital haven designed to help you navigate 
 - **HTML/CSS:** Frontend styling and structure.
 - **GitHub/Gitpod:** Version control and collaboration.
 
-## User Stories
+# User Stories
 
 ### Beginner Yogi
 
@@ -90,7 +90,7 @@ Welcome to **The Soul Train**, your digital haven designed to help you navigate 
 12. **User-Friendly Interface:**
     - As a user looking to reconnect with yoga, I want a user-friendly interface that provides a seamless experience, making it easy to explore classes, schedules, and additional resources.
 
-## Features
+# Features
 
 ### Home Page
 Your digital doorway featuring engaging visuals, concise descriptions, and inspirational quotes. The home page aims to pique curiosity and inspire a deeper exploration.
@@ -113,7 +113,7 @@ Insightful blogs on mindful eating and crystals provide knowledge and skills to 
 Establish a direct line of communication for personalized guidance, fostering a sense of belonging and support.
 ![Contact](docs/README-images/signup.jpg)
 
-## Intricate Features
+# Intricate Features
 
 ### Navigation Bar
 Consistent across all pages, ensuring smooth and intuitive navigation for a seamless user experience. Creating a smooth interaction which can be seen easy on the eyes ... *almost peaceful.*
@@ -273,7 +273,7 @@ This project, *The Soul Train*, is deployed using GitHub pages using the followi
 - Type git clone, and paste the link you copied in step 3.
 - Press Enter to have the local clone created.
 
-## Credits
+# Credits
 
 I extend gratitude to Code Institute for knowledge in HTML and CSS, enabling me to bring my ideas to life. The transformative journey from a nursing career to coding unveiled the healing power of meditation and yoga, essential tools in navigating the transition.
 
