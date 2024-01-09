@@ -132,10 +132,10 @@ Strategically positioned footer, reminding this is for beginners.
 <img src="docs/README-images/Footer.jpg" width="700">
 
 # Wireframes
-<img src="docs/README-images/wifreframeP1-index.jpg" width="700">
-<img src="docs/README-images/wifreframeP1-about.jpg" width="700">
-<img src="docs/README-images/wifreframeP1-classes.jpg" width="700">
-<img src="docs/README-images/wifreframeP1-signup.jpg" width="700">
+<img src="docs/README-images/WireframeP1index.jpg" width="500">
+<img src="docs/README-images/WireframeP1about.jpg" width="500">
+<img src="docs/README-images/WireframeP1classes.jpg" width="500">
+<img src="docs/README-images/WireframeP1signup.jpg" width="500">
 
 
 # Testing
@@ -184,11 +184,11 @@ Utilise the Wave Accessibility tool for ongoing development and final testing. C
   <img src="docs/README-images/lighthouse-fix.jpg" width="600">
 
 - Below you can see the Lighthouse results for all pages
-  <img src="docs/README-images/WireframeP1-index.jpg" width="500">
-  <img src="docs/README-images/WireframeP1e-about.jpg" width="500">
-  <img src="docs/README-images/WireframeP1-classes.jpg" width="500">
-  <img src="docs/README-images/WireframeP1-contact.jpg" width="500">
-  <img src="docs/README-images/WireframeP1-signup.jpg" width="500">
+  <img src="docs/README-images/lighthouse-index.jpg" width="500">
+  <img src="docs/README-images/lighthouse-about.jpg" width="500">
+  <img src="docs/README-images/lighthouse-classes.jpg" width="500">
+  <img src="docs/README-images/lighthouse-contact.jpg" width="500">
+  <img src="docs/README-images/lighthouse-signup.jpg" width="500">
       
 ## Functional Testing
 
