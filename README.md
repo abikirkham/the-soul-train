@@ -239,10 +239,13 @@ With the support and guidance with the communities on slack and from tutors at c
 ## HTML
 
 No errors were found when using the official W3C validator for HTML.
+![W3C Validator Results](docs/README-images/w3c-validator.jpg)
 
 ## CSS
 
 No errors were found when using the official (Jigsaw) validator for CSS.
+![Jigsaw Validator Results](docs/README-images/jigsaw-validator.jpg)
+
 
 ---
 
