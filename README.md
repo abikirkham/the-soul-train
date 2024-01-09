@@ -267,6 +267,7 @@ This project, *The Soul Train*, is deployed using GitHub pages using the followi
 * Signup form and redirection page from mentor Gareth McGirr Tacos Travels
 * Flexbox:
     * Daisy McGirr
+* README image sizes - https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
 
 ## Media
 Photos taken from https://www.freeimages.com
