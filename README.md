@@ -214,7 +214,7 @@ Following the correct structure provided by the LoveRunning Project inout media 
 
 ## Unfixed Errors
 
-**Issue #1:** With the support and guidance with the communities on slack and from tutors at code institute providing my with all information on how to adjust the images on multi sized screens to fit in the containers.
+**Issue #1:** With the support and guidance with the communities on slack and from tutors at code institute providing my with all information on how to adjust the images on multi sized screens to fit in the containers. However, on smaller screens these images do present stretched.
  <img src="docs/README-images/advice.jpg" width="600">
 
 **Issue #2:** Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which I found from Microsoft word keyboard.
