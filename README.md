@@ -5,6 +5,7 @@
 - [My vision](#my-vision)
 - [User Stories](#user-stories)
 - [Features](#features)
+- [Wireframes](#wireframes)
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Credits](#credits)
