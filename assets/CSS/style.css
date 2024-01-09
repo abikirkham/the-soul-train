@@ -143,6 +143,7 @@ main {
     background-repeat: repeat;
     margin-top: 140px;
     padding-top: 50px;
+    z-index: 1;
 }
 
 /* Reset default styles */
