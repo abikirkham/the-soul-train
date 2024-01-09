@@ -263,13 +263,14 @@ This project, *The Soul Train*, is deployed using GitHub pages using the followi
 ## Coding instructions
 * Inspiration from Love Running project provided by Code Institute
 * https://developer.mozilla.org/en-US/docs/Web/CSS/:hover# for hover effect
-* https://www.youtube.com/watch?v=iXKScihfSwE for navigation 
-* w3schools
+* https://www.w3schools.com/css/css_background_image.asp for image as a background image
+* https://www.youtube.com/watch?v=iXKScihfSwE for navigation bar
+* w3schools to remind me throughout on the proper structure/ written code
 * Signup form and redirection page from mentor Gareth McGirr Tacos Travels
 * Flexbox:
     * Daisy McGirr
 
 ## Media
-Photos taken from  freeimages
-To create the styles of the background using the images, I used this app
+Photos taken from https://www.freeimages.com
+To create the styles of the background using the images, I used this https://www.sketchbook.com
 Audio taken from https://stock.adobe.com/uk/search/audio?k=356526657 
