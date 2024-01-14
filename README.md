@@ -267,12 +267,14 @@ This project, *The Soul Train*, is deployed using GitHub pages using the followi
 * https://developer.mozilla.org/en-US/docs/Web/CSS/:hover# for hover effect
 * https://www.w3schools.com/css/css_background_image.asp for image as a background image
 * https://www.youtube.com/watch?v=iXKScihfSwE for navigation bar
+* https://www.youtube.com/@IonaFrisbee for flex box
 * w3schools to remind me throughout on the proper structure/ written code
 * Signup form and redirection page from mentor Gareth McGirr Tacos Travels
 * README image sizes - https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
-* Hosting site for my background img to be a url - https://i.ibb.co/fCGgSKn/yoga-background-img.png
+  
 
 ## Media
-Photos taken from https://www.freeimages.com
-To create the styles of the background using the images, I used this https://www.sketchbook.com
-Audio taken from https://stock.adobe.com/uk/search/audio?k=356526657 
+* Photos taken from https://www.freeimages.com
+* To create the styles of the background using the images, I used this https://www.sketchbook.com
+* Hosting site for my background img to be a url - https://i.ibb.co/fCGgSKn/yoga-background-img.png
+* Audio taken from https://stock.adobe.com/uk/search/audio?k=356526657 
