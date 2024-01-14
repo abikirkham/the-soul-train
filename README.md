@@ -182,11 +182,11 @@ Utilise the Wave Accessibility tool for ongoing development and final testing. C
 - Integrated into Chrome Developer Tools or available as a standalone tool.
 - I improved my website's loading speed by downloading the background image to my local assets and updating the CSS link from an HTTPS URL to the local path, as seen below this imporved the lighthouse score.
 - Below you can see the Lighthouse results for all pages
-  <img src="docs/README-images/lighthouse-index.jpg" width="500">
+  <img src="docs/README-images/lighthouse-home.jpg" width="500">
   <img src="docs/README-images/lighthouse-about.jpg" width="500">
   <img src="docs/README-images/lighthouse-classes.jpg" width="500">
   <img src="docs/README-images/lighthouse-contact.jpg" width="500">
-  <img src="docs/README-images/lighthouse-signup.jpg" width="500">
+  <img src="docs/README-images/lighthouse-blogs.jpg" width="500">
       
 ## Functional Testing
 
