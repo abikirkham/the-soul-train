@@ -87,23 +87,28 @@ Welcome to **The Soul Train**, I started Soul Train to help people like me who j
 
 ### Home Page
 Your digital doorway featuring engaging visuals, concise descriptions, and inspirational quotes. The home page aims to pique curiosity and inspire a deeper exploration.
+.
 <img src="docs/README-images/homepage.jpg" width="600">
 
 ### About Page :dizzy:
 
 Explore the heart of my mission, offering resources like sound healing audio and yoga essentials for an enhanced mindfulness journey.
+.
 <img src="docs/README-images/about-us-page.jpg" width="600">
 
 ### Class Schedule Page :calendar:
 Access an updated schedule of yoga, pilates, and meditation classes for active participation and seamless integration into daily routines.
+.
 <img src="docs/README-images/class-schedule.jpg" width="600">
 
 ### Blog Page
 Insightful blogs on mindful eating and crystals provide knowledge and skills to enhance your mindfulness journey.
+.
 <img src="docs/README-images/blog-page.jpg" width="600">
 
 ### Contact Page
 Establish a direct line of communication for personalized guidance, fostering a sense of belonging and support.
+.
 <img src="docs/README-images/signup.jpg" width="600">
 
 # Intricate Features
