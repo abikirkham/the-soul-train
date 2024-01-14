@@ -210,11 +210,105 @@ The site was tested for both correct and incorrect inputs, covering various scen
 
 ### Scenario One - Correct Inputs
 
-The sign up form submits successfully with no errors, redirecting to index.html.
+**Steps to test:**
 
-### Scenario Two - ALTs for images, audio and background
+1. Navigate to The Soul Train - Home Page
+2. Scroll down to the form and input the following data:
+   - First Name: Jane
+   - Last Name: Doe
+   - Email: doe.jane@test.com
+   - Comment: This is a test.
+3. Click Submit
+4. User should be redirected to `contact.html` confirmation page
 
-Following the correct structure provided by the LoveRunning Project inout media by code institute but appyling it to my soundheaing section- ensureing i was following the right path and covering all bases, ensuring it worked by running this through on different browsers and passing through the W3C validator ensuring there were no errors. Also testing on different browsers and devices to ensure this pulled through on all.
+**Expected:**
+
+Form submits with no warnings or errors, and the user is redirected to `contact.html` confirmation page.
+
+**Actual:**
+
+The website behaved as expected with no errors or warnings and redirected to `contact.html`.
+
+### Scenario Two - Missing Required Field First Name
+
+**Steps to test:**
+
+1. Navigate to The Soul Train - Home Page
+2. Scroll down to the form and input the following data:
+   - First Name:
+   - Last Name: Doe
+   - Email: doe.jane@test.com
+   - Comment: This is a test.
+3. Click Submit
+
+**Expected:**
+
+The form does not submit, and an error is displayed to tell the user that the field is required.
+
+**Actual:**
+
+The website behaved as expected; an error message was displayed, and the form did not submit.
+
+### Scenario Three - Missing Required Field Last Name
+
+**Steps to test:**
+
+1. Navigate to The Soul Train - Home Page
+2. Scroll down to the form and input the following data:
+   - First Name: Jane
+   - Last Name:
+   - Email: doe.jane@test.com
+   - Comment: This is a test.
+3. Click Submit
+
+**Expected:**
+
+The form does not submit, and an error is displayed to tell the user that the field is required.
+
+**Actual:**
+
+The website behaved as expected; an error message was displayed, and the form did not submit.
+
+### Scenario Four - Missing Required Field Email
+
+**Steps to test:**
+
+1. Navigate to The Soul Train - Home Page
+2. Scroll down to the form and input the following data:
+   - First Name: Jane
+   - Last Name: Doe
+   - Email:
+   - Comment: This is a test.
+3. Click Submit
+
+**Expected:**
+
+The form does not submit, and an error is displayed to tell the user that the field is required.
+
+**Actual:**
+
+The website behaved as expected; an error message was displayed, and the form did not submit.
+
+### Scenario Six - Incorrect email format
+
+**Steps to test:**
+
+1. Navigate to The Soul Train - Home Page
+2. Scroll down to the form and input the following data:
+   - First Name: Jane
+   - Last Name: Doe
+   - Email: doe.johntest.com
+   - Comment: This is a test.
+3. Click Submit
+
+**Expected:**
+
+The form does not submit, and an error is displayed to tell the user that a valid email is required and the format it should be in.
+
+**Actual:**
+
+The website behaved as expected; an error message was displayed, and the form did not submit.
+
 
 ## Unfixed Errors
 
