@@ -223,11 +223,11 @@ The site was tested for both correct and incorrect inputs, covering various scen
 
 **Expected:**
 
-Form submits with no warnings or errors, and the user is redirected to `contact.html` confirmation page.
+Form submits with no warnings or errors, and the user is redirected to `thankyou.html` confirmation page.
 
 **Actual:**
 
-The website behaved as expected with no errors or warnings and redirected to `contact.html`.
+The website behaved as expected with no errors or warnings and redirected to `thankyou.html`.
 
 ### Scenario Two - Missing Required Field First Name
 
@@ -247,7 +247,7 @@ The form does not submit, and an error is displayed to tell the user that the fi
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit.
+The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/README-images/field-req.jpg" width="600">
 
 ### Scenario Three - Missing Required Field Last Name
 
@@ -267,7 +267,7 @@ The form does not submit, and an error is displayed to tell the user that the fi
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit.
+The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/README-images/field-req.jpg" width="600">
 
 ### Scenario Four - Missing Required Field Email
 
@@ -287,7 +287,7 @@ The form does not submit, and an error is displayed to tell the user that the fi
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit.
+The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/README-images/field-req.jpg" width="600">
 
 ### Scenario Six - Incorrect email format
 
@@ -297,7 +297,7 @@ The website behaved as expected; an error message was displayed, and the form di
 2. Scroll down to the form and input the following data:
    - First Name: Jane
    - Last Name: Doe
-   - Email: doe.johntest.com
+   - Email: doe.janetest.com
    - Comment: This is a test.
 3. Click Submit
 
@@ -307,7 +307,7 @@ The form does not submit, and an error is displayed to tell the user that a vali
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit.
+The website behaved as expected; an error message was displayed, and the form did not submit. <img src="docs/README-images/correctemail.jpg" width="600">
 
 
 ## Unfixed Errors
