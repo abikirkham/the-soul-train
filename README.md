@@ -247,7 +247,7 @@ The form does not submit, and an error is displayed to tell the user that the fi
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/README-images/field-req.jpg" width="600">
+The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/README-images/field-req.jpg" width="200">
 
 ### Scenario Three - Missing Required Field Last Name
 
@@ -267,7 +267,7 @@ The form does not submit, and an error is displayed to tell the user that the fi
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/README-images/field-req.jpg" width="600">
+The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/README-images/field-req.jpg" width="200">
 
 ### Scenario Four - Missing Required Field Email
 
@@ -287,7 +287,7 @@ The form does not submit, and an error is displayed to tell the user that the fi
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/README-images/field-req.jpg" width="600">
+The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/README-images/field-req.jpg" width="200">
 
 ### Scenario Six - Incorrect email format
 
@@ -307,7 +307,7 @@ The form does not submit, and an error is displayed to tell the user that a vali
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit. <img src="docs/README-images/correctemail.jpg" width="600">
+The website behaved as expected; an error message was displayed, and the form did not submit. <img src="docs/README-images/correctemail.jpg" width="200">
 
 
 ## Unfixed Errors
