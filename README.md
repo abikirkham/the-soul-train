@@ -337,6 +337,14 @@ No errors were found when using the official (Jigsaw) validator for CSS.
 
 This project, *The Soul Train*, is deployed using GitHub pages using the following process,
 
+### Pushing my changes
+
+git add <file> - This command was used to add the file(s) to the staging area before they are committed.
+
+git commit -m “commit message” - This command was used to commit changes to the local repository queue ready for the final step.
+
+git push - This command was used to push all committed code to the remote repository on github.
+
 ### Deploying a GitHub Repository via GitHub Pages
 
 - In your Repository section, select the Repository you wish to deploy.
