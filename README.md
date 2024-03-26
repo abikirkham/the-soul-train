@@ -133,51 +133,72 @@ git push - This command was used to update all committed code to the remote repo
 ![Icon](docs/README-images/icon.jpg)![Tab](docs/README-images/tab.jpg)
 
 ### Home Page
+<details>
+  <summary>Click to expand.</summary>
 Your digital doorway featuring engaging visuals, concise descriptions, and inspirational quotes. The home page aims to pique curiosity and inspire a deeper exploration.
-<img src="docs/README-images/homepage.jpg" width="600">
+<img src="docs/README-images/homepage.jpg" width="600"></details>
 
 ### About Page :dizzy:
-
+<details>
+  <summary>Click to expand.</summary>
 Explore the heart of my mission, offering resources like sound healing audio and yoga essentials for an enhanced mindfulness journey.
-<img src="docs/README-images/about-us-page.jpg" width="600">
+<img src="docs/README-images/about-us-page.jpg" width="600"></details>
 
 ### Class Schedule Page :calendar:
+<details>
+  <summary>Click to expand.</summary>
 Access an updated schedule of yoga, pilates, and meditation classes for active participation and seamless integration into daily routines.
-<img src="docs/README-images/class-schedule.jpg" width="600">
+<img src="docs/README-images/class-schedule.jpg" width="600"></details>
 
 ### Blog Page
+<details>
+  <summary>Click to expand.</summary>
 Insightful blogs on mindful eating and crystals provide knowledge and skills to enhance your mindfulness journey.
-<img src="docs/README-images/blog-page.jpg" width="600">
+<img src="docs/README-images/blog-page.jpg" width="600"></details>
 
 ### Contact Page
+<details>
+  <summary>Click to expand.</summary>
 Establish a direct line of communication for personalized guidance, fostering a sense of belonging and support.
-<img src="docs/README-images/signup.jpg" width="600">
+<img src="docs/README-images/signup.jpg" width="600"></details>
 
 # Intricate Features
 
 ### Navigation Bar
+<details>
+  <summary>Click to expand.</summary>
 Consistent across all pages, ensuring smooth and intuitive navigation for a seamless user experience. Creating a smooth interaction which can be seen easy on the eyes ... *almost peaceful.*
-<img src="docs/README-images/Nav-img.jpg" width="600">
+<img src="docs/README-images/Nav-img.jpg" width="600"></details>
 
 ### Landing Page
-A captivating point of entry with visually appealing, simplistic classe timetables, introducing the mission of *The Soul Train*. Creating easy access for those who have accessed the page previosuly and wanted to jump straight to the classes.
+<details>
+  <summary>Click to expand.</summary>
+A captivating point of entry with visually appealing, simplistic classe timetables, introducing the mission of *The Soul Train*. Creating easy access for those who have accessed the page previosuly and wanted to jump straight to the classes.</details>
 
 ### Audio
+<details>
+  <summary>Click to expand.</summary>
 I have added an audio section to the yoga website, offering soothing sound healing sessions, allowing you to experience the calming effects and providing a convenient option for practicing at home.
-<img src="docs/README-images/audio.jpg" width="600">
+<img src="docs/README-images/audio.jpg" width="600"></details>
 
 ### Club Ethos
-Outlining the benefits of joining yoga, pilates and medication for beginners, encouraging peacefullness to the soul, joinginh the training journey.
+<details>
+  <summary>Click to expand.</summary>
+Outlining the benefits of joining yoga, pilates and medication for beginners, encouraging peacefullness to the soul, joinginh the training journey.<details>
 
 ### Meetup Times
+<details>
+  <summary>Click to expand.</summary>
 Crucial and real-time information about the schedules, introductions, and defintions for what each class means.
 <img src="docs/README-images/pilates-classes.jpg" width="600">
 <img src="docs/README-images/yoga-classes.jpg" width="600">
-<img src="docs/README-images/meditation-classes.jpg" width="600">
+<img src="docs/README-images/meditation-classes.jpg" width="600"></details>
 
 ### Footer
+<details>
+  <summary>Click to expand.</summary>
 Strategically positioned footer, reminding this is for beginners.
-<img src="docs/README-images/Footer.jpg" width="700">
+<img src="docs/README-images/Footer.jpg" width="700"></details>
 
 
 # Testing
@@ -219,11 +240,13 @@ Utilise the Wave Accessibility tool for ongoing development and final testing. C
 ### Lighthouse Testing
 - Integrated into Chrome Developer Tools or available as a standalone tool.
 - Below you can see the Lighthouse results for all pages
+<details>
+  <summary>Click to expand.</summary>
   <img src="docs/README-images/lighthouse-home.jpg" width="500">
   <img src="docs/README-images/lighthouse-about.jpg" width="500">
   <img src="docs/README-images/lighthouse-classes.jpg" width="500">
   <img src="docs/README-images/lighthouse-contact.jpg" width="500">
-  <img src="docs/README-images/lighthouse-blogs.jpg" width="500">
+  <img src="docs/README-images/lighthouse-blogs.jpg" width="500"></details>
       
 ## Manual Testing
 
@@ -254,7 +277,7 @@ Utilise the Wave Accessibility tool for ongoing development and final testing. C
 
 ## Bugs and user errors
 
-The site was tested for both correct and incorrect inputs, covering various scenarios.
+The site was tested for both correct and incorrect inputs for user interactions, covering various scenarios.
 
 ### Scenario One - Correct Inputs
 
