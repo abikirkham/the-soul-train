@@ -81,10 +81,17 @@ Welcome to **The Soul Train**, I started Soul Train to help people like me who j
 <img src="docs/README-images/WireframeP1classes.jpg" width="300">
 <img src="docs/README-images/WireframeP1signup.jpg" width="300">
 
+
 ## Technologies Used
 
-- **HTML/CSS:** Frontend styling and structure.
-- **GitHub/Gitpod:** Version control and collaboration.
+- **HTML5:** I utilised HTML5 to structure my web pages, integrating multimedia elements like images and audio to enhance content presentation and user experience.
+  
+- **CSS:** I employed CSS to style my HTML documents, specifying visual aspects such as colors, fonts, and layouts to create an aesthetically pleasing and responsive design.
+  
+- **GitHub:** I leveraged GitHub as my primary version control system, hosting my code repositories, using push/pull requests and deploying the site.
+  
+- **Gitpod/Visual Studio Code (IDE):** I relied on Gitpod or Visual Studio Code as my IDE of choice, utilising their features for writing, debugging, and managing my code efficiently, whether I was working in a cloud-based or desktop environment.
+
 
 ## Deployment
 
@@ -92,13 +99,13 @@ Welcome to **The Soul Train**, I started Soul Train to help people like me who j
 
 This project, *The Soul Train*, is deployed using GitHub pages using the following process,
 
-### Pushing my changes
+### Updating my changes
 
 git add <file> - This command was used to add the file(s) to the staging area before they are committed.
 
 git commit -m “commit message” - This command was used to commit changes to the local repository queue ready for the final step.
 
-git push - This command was used to push all committed code to the remote repository on github.
+git push - This command was used to update all committed code to the remote repository on github.
 
 ### Deploying a GitHub Repository via GitHub Pages
 
@@ -209,8 +216,6 @@ Utilise the Wave Accessibility tool for ongoing development and final testing. C
 7. Implement Aria properties in adherence to best practices outlined in WCAG 2.1.
 8. Follow established coding best practices for WCAG 2.1.
 
-## Manual Tests
-
 ### Lighthouse Testing
 - Integrated into Chrome Developer Tools or available as a standalone tool.
 - Below you can see the Lighthouse results for all pages
@@ -220,21 +225,31 @@ Utilise the Wave Accessibility tool for ongoing development and final testing. C
   <img src="docs/README-images/lighthouse-contact.jpg" width="500">
   <img src="docs/README-images/lighthouse-blogs.jpg" width="500">
       
-## Functional Testing
+## Manual Testing
 
-### Navigation Links
-
-Navigation links on the respective pages were tested for correctness, ensuring they directed users to the intended pages.
-
-- Home links to index.html.
-- About links to about.html.
-- Classes links to classed.html.
-- The sign up page links to contact.html.
-- All blogs can be seen under blogs.html with hidden htmls under the 'Read More' section for the 5 different blogs.
-- Redirection from thank you page goes to 'index.html'.
-
-
-All links navigated to the correct pages as expected.
+| Function | User Action | Outcome | Result |
+|----------|-------------|---------|--------|
+| Start on Home Page | Accessing the webpage using [this link](https://abikirkham.github.io/the-soul-train/index.html) | This will load the webpage with mutliple sections, the appropriate selectors and navigation/links to other pages. | Pass |
+| Hover on buttons and links | Hover mouse over buttons and links | Visual feedback (e.g., color change) | Pass |
+| Sections | Navigate through different sections | Display respective section content using HTML and CSS to be consistant | Pass |
+| Background on all pages | Nothing for user to do | Background image should load on this page without distortion | Pass |
+| Navigation | Click on navigation icon to bring the drop down function elements to show | Drop down menu acts as expected even on smaller screens | Pass |
+| About page | Click the about page link in navigation bar | Display information about the benefits, ecesitites and sample content | Pass |
+| Audio | Interact with audio elements | Play, pause, adjust volume, etc. | Pass |
+| Classes page | Click the about page link in navigation bar | Display the class sections through sections withing containers, tables and images | Pass |
+| Sections | Navigate through categorised sections | Display categorised section content | Pass |
+| Images | Accessed on the classes page | Show images with no distortion | Pass |
+| Tables | Accessed on the classes page | Visually show the table with no issues when move to smaller screens | Pass |
+| Blog | Access blog page | Display list of blog posts | Pass |
+| Sections (Blog1, Blog2, Blog3, Blog4, Blog5) | Navigate through blog sections | Display respective blog post content | Pass |
+| Contact | Accessed through navigation bar | Input first name, last name, email, etc. | Pass |
+| Name Field | Input first name | Allows user interaction | Pass |
+| Name Field | Input last name | Allows user interaction | Pass |
+| Email Field | Input email | Allows user interaction | Pass |
+| Submit | Clicks button - submit contact form | Accepts form data and opens redirect page | Pass |
+| If not filled (Name, Last Name, Email) | Submit contact form with missing fields | Validation error message will show, notifying the user to fill field out | Pass |
+| Redirect page | Submit contact form successfully | Redirect to a confirmation page, showing thank you message and that this page is on a time and will redirect in 10 seconds | Pass |
+| Timer | Trigger timer functionality when opens the Redirct page | After 10 seconds the page will open the home page without user interaction | Pass |
 
 
 ## Bugs
