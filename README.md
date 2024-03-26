@@ -4,10 +4,12 @@
 ## Contents
 - [My vision](#my-vision)
 - [User Stories](#user-stories)
-- [Features](#features)
 - [Wireframes](#wireframes)
-- [Testing](#testing)
+- [Technologies Used](#technologies-used)
 - [Deployment](#deployment)
+- [Features](#features)
+- [Testing](#testing)
+- [Bugs](#bugs)
 - [Credits](#credits)
 
 
@@ -25,12 +27,7 @@ Welcome to **The Soul Train**, I started Soul Train to help people like me who j
 [The Soul Train repository viewed on GitHub](https://github.com/abikirkham/the-soul-train.git)
 
 
-## Technologies Used
-
-- **HTML/CSS:** Frontend styling and structure.
-- **GitHub/Gitpod:** Version control and collaboration.
-
-# User Stories
+## User Stories
 
 ### Beginner Yogi
 
@@ -77,6 +74,49 @@ Welcome to **The Soul Train**, I started Soul Train to help people like me who j
 
 12. **User-Friendly Interface:**
     - As a user looking to reconnect with yoga, I want a user-friendly interface that provides a seamless experience, making it easy to explore classes, schedules, and additional resources.
+
+## Wireframes
+<img src="docs/README-images/WireframeP1index.jpg" width="300">
+<img src="docs/README-images/WireframeP1about.jpg" width="300">
+<img src="docs/README-images/WireframeP1classes.jpg" width="300">
+<img src="docs/README-images/WireframeP1signup.jpg" width="300">
+
+## Technologies Used
+
+- **HTML/CSS:** Frontend styling and structure.
+- **GitHub/Gitpod:** Version control and collaboration.
+
+## Deployment
+
+### Github
+
+This project, *The Soul Train*, is deployed using GitHub pages using the following process,
+
+### Pushing my changes
+
+git add <file> - This command was used to add the file(s) to the staging area before they are committed.
+
+git commit -m “commit message” - This command was used to commit changes to the local repository queue ready for the final step.
+
+git push - This command was used to push all committed code to the remote repository on github.
+
+### Deploying a GitHub Repository via GitHub Pages
+
+- In your Repository section, select the Repository you wish to deploy.
+- In the top horizontal Menu, locate and click the Settings link.
+- Inside the Setting page, around halfway down locate the GitHub Pages Section.
+- Under Source, select the None tab and change it to Main and click Save.
+- Finally once the page resets scroll back down to the GitHub Pages Section to see the following message "Your site is ready to be published at (Link to the GitHub Page Web Address)". It can take time for the link to open your project initially, so please don't be worried if it does not load immediately.
+
+### Making a Local Clone
+
+- Find the GitHub Repository.
+- Click the Code button
+- Copy the link shown.
+- In Gitpod, change the directory to the location you would like the cloned directory to be located.
+- Type git clone, and paste the link you copied in step 3.
+- Press Enter to have the local clone created.
+
 
 # Features
 
@@ -132,15 +172,8 @@ Crucial and real-time information about the schedules, introductions, and defint
 Strategically positioned footer, reminding this is for beginners.
 <img src="docs/README-images/Footer.jpg" width="700">
 
-# Wireframes
-<img src="docs/README-images/WireframeP1index.jpg" width="300">
-<img src="docs/README-images/WireframeP1about.jpg" width="300">
-<img src="docs/README-images/WireframeP1classes.jpg" width="300">
-<img src="docs/README-images/WireframeP1signup.jpg" width="300">
-
 
 # Testing
-
 
 ## Responsiveness
 
@@ -203,7 +236,8 @@ Navigation links on the respective pages were tested for correctness, ensuring t
 
 All links navigated to the correct pages as expected.
 
-## Form Testing
+
+## Bugs
 
 The site was tested for both correct and incorrect inputs, covering various scenarios.
 
@@ -329,37 +363,6 @@ No errors were found when using the official W3C validator for HTML.
 No errors were found when using the official (Jigsaw) validator for CSS.
  <img src="docs/README-images/jigsaw-validator.jpg" width="700">
 
-
-## Deployment
-
-### Github
-
-This project, *The Soul Train*, is deployed using GitHub pages using the following process,
-
-### Pushing my changes
-
-git add <file> - This command was used to add the file(s) to the staging area before they are committed.
-
-git commit -m “commit message” - This command was used to commit changes to the local repository queue ready for the final step.
-
-git push - This command was used to push all committed code to the remote repository on github.
-
-### Deploying a GitHub Repository via GitHub Pages
-
-- In your Repository section, select the Repository you wish to deploy.
-- In the top horizontal Menu, locate and click the Settings link.
-- Inside the Setting page, around halfway down locate the GitHub Pages Section.
-- Under Source, select the None tab and change it to Main and click Save.
-- Finally once the page resets scroll back down to the GitHub Pages Section to see the following message "Your site is ready to be published at (Link to the GitHub Page Web Address)". It can take time for the link to open your project initially, so please don't be worried if it does not load immediately.
-
-### Making a Local Clone
-
-- Find the GitHub Repository.
-- Click the Code button
-- Copy the link shown.
-- In Gitpod, change the directory to the location you would like the cloned directory to be located.
-- Type git clone, and paste the link you copied in step 3.
-- Press Enter to have the local clone created.
 
 # Credits
 
