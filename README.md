@@ -363,7 +363,7 @@ The website behaved as expected; an error message was displayed, and the form di
 **Issue #1:** With the support and guidance with the communities on slack and from tutors at code institute providing my with all information on how to adjust the images on multi sized screens to fit in the containers. However, on smaller screens these images do present stretched.
  <img src="docs/README-images/advice.jpg" width="600">
 
-**Issue #2:** Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which I found from Microsoft word keyboard.
+**Issue #2:** Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which I found from Microsoft word keyboard, with support from my mentor on this project, Gareth Moore, who helped me allow this to work well on smaller screens.
 
 
 # Validator Testing
