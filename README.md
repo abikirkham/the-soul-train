@@ -184,7 +184,7 @@ I have added an audio section to the yoga website, offering soothing sound heali
 ### Club Ethos
 <details>
   <summary>Click to expand.</summary>
-Outlining the benefits of joining yoga, pilates and medication for beginners, encouraging peacefullness to the soul, joinginh the training journey.<details>
+Outlining the benefits of joining yoga, pilates and medication for beginners, encouraging peacefullness to the soul, joinginh the training journey.</details>
 
 ### Meetup Times
 <details>
