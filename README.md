@@ -404,7 +404,7 @@ No errors were found when using the official (Jigsaw) validator for CSS.
 
 # Credits
 
-## Coding instructions
+## Code
 * Inspiration from Love Running project provided by Code Institute
 * https://developer.mozilla.org/en-US/docs/Web/CSS/:hover# for hover effect
 * https://www.w3schools.com/css/css_background_image.asp for image as a background image
