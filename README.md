@@ -9,7 +9,7 @@
 - [Deployment](#deployment)
 - [Features](#features)
 - [Testing](#testing)
-- [Bugs and user errors](#bugs-and-user-errors)
+- [Bugs](#bugs)
 - [Credits](#credits)
 
 
@@ -275,7 +275,7 @@ Utilise the Wave Accessibility tool for ongoing development and final testing. C
 | Timer | Trigger timer functionality when opens the Redirct page | After 10 seconds the page will open the home page without user interaction | Pass |
 
 
-## Bugs and user errors
+## Form Testing
 
 The site was tested for both correct and incorrect inputs for user interactions, covering various scenarios.
 
@@ -381,7 +381,7 @@ The form does not submit, and an error is displayed to tell the user that a vali
 The website behaved as expected; an error message was displayed, and the form did not submit. <img src="docs/README-images/correctemail.jpg" width="200">
 
 
-## Bugs
+## Bugs 
 
 **Issue #1:** With the support and guidance with the communities on slack and from tutors at code institute providing my with all information on how to adjust the images on multi sized screens to fit in the containers. However, on smaller screens these images do present stretched.
  <img src="docs/README-images/advice.jpg" width="600">
