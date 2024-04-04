@@ -95,9 +95,14 @@ Welcome to **The Soul Train**, I started Soul Train to help people like me who j
 
 ## Deployment
 
-### Github
+### Making a Local Clone to create project
 
-This project, *The Soul Train*, is deployed using GitHub pages using the following process,
+- Find the GitHub Repository.
+- Click the Code button
+- Copy the link shown.
+- In Gitpod, change the directory to the location you would like the cloned directory to be located.
+- Type git clone, and paste the link you copied in step 3.
+- Press Enter to have the local clone created.
 
 ### Updating my changes
 
@@ -107,6 +112,10 @@ git commit -m “commit message” - This command was used to commit changes to 
 
 git push - This command was used to update all committed code to the remote repository on github.
 
+### Github
+
+This project, *The Soul Train*, is deployed using GitHub pages using the following process,
+
 ### Deploying a GitHub Repository via GitHub Pages
 
 - In your Repository section, select the Repository you wish to deploy.
@@ -114,16 +123,6 @@ git push - This command was used to update all committed code to the remote repo
 - Inside the Setting page, around halfway down locate the GitHub Pages Section.
 - Under Source, select the None tab and change it to Main and click Save.
 - Finally once the page resets scroll back down to the GitHub Pages Section to see the following message "Your site is ready to be published at (Link to the GitHub Page Web Address)". It can take time for the link to open your project initially, so please don't be worried if it does not load immediately.
-
-### Making a Local Clone
-
-- Find the GitHub Repository.
-- Click the Code button
-- Copy the link shown.
-- In Gitpod, change the directory to the location you would like the cloned directory to be located.
-- Type git clone, and paste the link you copied in step 3.
-- Press Enter to have the local clone created.
-
 
 # Features
 
