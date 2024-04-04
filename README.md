@@ -391,7 +391,7 @@ The website behaved as expected; an error message was displayed, and the form di
 # Validator Testing
 
 ## HTML
-
+[Link to Testing](https://jigsaw.w3.org/css-validator/)
 No errors were found when using the official W3C validator for HTML.
  <img src="docs/README-images/w3c-validator.jpg" width="700">
 
