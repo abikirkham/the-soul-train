@@ -224,39 +224,69 @@ Below are the images to show the responisiveness on all pages, this was done usi
 <details>
 <summary>Click to expand</summary>
 
-### Home
+#### Home
 ![Home](docs/home-screen-size.png)
 
-### About
+#### About
 ![About](docs/about-screen-size.png)
 
-### Classes
+#### Classes
 ![Classes](docs/class-screen-size.png)
 
-### Contact
+#### Contact
 ![Contact](docs/contact-screen-size.png)
 
-### Blog Home
+#### Blog Home
 ![Blog home](docs/blog-home-screen-size.png)
 
-### Blog 1
+#### Blog 1
 ![Blog1](docs/blog1-screen-size.png)
 
-### Blog 2
+#### Blog 2
 ![Blog2](docs/blog2-screen-size.png)
 
-### Blog 3
+#### Blog 3
 ![Blog3](docs/blog3-screen-size.png)
 
-### Blog 4
+#### Blog 4
 ![Blog4](docs/blog4-screen-size.png)
 
-### Blog 5
+#### Blog 5
 ![Blog5](docs/blog5-screen-size.png)
 
 </details>
 
 ### Capability
+
+The project has been tested for compatibility with the following browsers:
+
+- Google Chrome (Version 122)
+- Edge (Version 122)
+- Firefox (Version 124)
+- Opera (Version 108)
+- macOS Sonoma 16.5
+
+Below are the images shown to prove these tests.
+
+<details>
+<summary>Click to expand.</summary>
+
+#### Google Chrome
+![chrome](docs/chrome122.png)
+
+#### Edge
+![edge](docs/edge122.png)
+
+#### FireFox
+![firefox](docs/firefox124.png)
+
+#### Opera
+![opera](docs/opera108.png)
+
+#### macOS Sonoma 16.5
+![macOS](docs/macos16-5)
+
+</details>
 
 ### Expected Results
 
