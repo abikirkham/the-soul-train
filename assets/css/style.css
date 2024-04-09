@@ -375,7 +375,7 @@ footer {
 
 /* Media Styles for smaller screen */
 @media screen and (max-width: 800px) {
-  
+
     body {
             padding-top: 50px;
             margin-top: 50px;

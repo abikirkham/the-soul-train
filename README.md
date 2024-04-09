@@ -288,14 +288,6 @@ Below are the images shown to prove these tests.
 
 </details>
 
-### Expected Results
-
-The website should be responsive on all screen sizes with no pixelated or stretched images, no horizontal scrolling, and no overlapping elements.
-
-### Actual Results
-
-The website behaved as expected.
-
 
 ## Accessibility
 
