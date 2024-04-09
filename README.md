@@ -112,7 +112,9 @@ Your digital doorway featuring engaging visuals, concise descriptions, and inspi
 <details>
   <summary>Click to expand.</summary>
 Explore the heart of my mission, offering resources like sound healing audio and yoga essentials for an enhanced mindfulness journey.
-<img src="docs/about-us-page.jpg" width="600"></details>
+
+![about-page](docs/about-us-page.jpg)
+</details>
 
 ### Class Schedule Page :calendar:
 <details>
@@ -120,23 +122,24 @@ Explore the heart of my mission, offering resources like sound healing audio and
 Access an updated schedule of yoga, pilates, and meditation classes for active participation and seamless integration into daily routines.
 
 
-<img src="docs/class-schedule.jpg" width="600"></details>
+![classes](docs/class-schedule.jpg)
+</details>
 
 ### Blog Page
 <details>
   <summary>Click to expand.</summary>
 Insightful blogs on mindful eating and crystals provide knowledge and skills to enhance your mindfulness journey.
 
-
-<img src="docs/blog-page.jpg" width="600"></details>
+![blogs](docs/blog-page.jpg)
+</details>
 
 ### Contact Page
 <details>
   <summary>Click to expand.</summary>
 Establish a direct line of communication for personalized guidance, fostering a sense of belonging and support.
 
-
-<img src="docs/signup.jpg" width="600"></details>
+![contact](docs/signup.jpg)
+</details>
 
 # Intricate Features
 
@@ -144,7 +147,9 @@ Establish a direct line of communication for personalized guidance, fostering a 
 <details>
   <summary>Click to expand.</summary>
 Consistent across all pages, ensuring smooth and intuitive navigation for a seamless user experience. Creating a smooth interaction which can be seen easy on the eyes ... *almost peaceful.*
-<img src="docs/nav-img.jpg" width="600"></details>
+
+![navigation](docs/nav-img.jpg)
+</details>
 
 ### Landing Page
 <details>
@@ -155,7 +160,9 @@ A captivating point of entry with visually appealing, simplistic classe timetabl
 <details>
   <summary>Click to expand.</summary>
 I have added an audio section to the yoga website, offering soothing sound healing sessions, allowing you to experience the calming effects and providing a convenient option for practicing at home.
-<img src="docs/audio.jpg" width="600"></details>
+
+![audio](docs/audio.jpg)
+</details>
 
 ### Club Ethos
 <details>
@@ -166,15 +173,20 @@ Outlining the benefits of joining yoga, pilates and medication for beginners, en
 <details>
   <summary>Click to expand.</summary>
 Crucial and real-time information about the schedules, introductions, and defintions for what each class means.
-<img src="docs/pilates-classes.jpg" width="600">
-<img src="docs/yoga-classes.jpg" width="600">
-<img src="docs/meditation-classes.jpg" width="600"></details>
+
+
+![pilates](docs/pilates-classes.jpg)
+![yoga](docs/yoga-classes.jpg)
+![meditation](docs/meditation-classes.jpg)
+</details>
 
 ### Footer
 <details>
   <summary>Click to expand.</summary>
 Strategically positioned footer, reminding this is for beginners.
-<img src="docs/footer.jpg" width="700"></details>
+
+![footer](docs/footer.jpg)
+</details>
 
 
 ## Deployment
@@ -244,11 +256,13 @@ Utilise the Wave Accessibility tool for ongoing development and final testing. C
 - Below you can see the Lighthouse results for all pages
 <details>
   <summary>Click to expand.</summary>
-  <img src="docs/lighthouse-home.jpg" width="500">
-  <img src="docs/lighthouse-about.jpg" width="500">
-  <img src="docs/lighthouse-classes.jpg" width="500">
-  <img src="docs/lighthouse-contact.jpg" width="500">
-  <img src="docs/lighthouse-blogs.jpg" width="500"></details>
+  
+  ![testing-home](docs/lighthouse-home.jpg)
+  ![testing-about](docs/lighthouse-about.jpg)
+  ![testing-classes](docs/lighthouse-classes.jpg)
+  ![testing-contact](docs/lighthouse-contact.jpg)
+  ![testing-blogs](docs/lighthouse-blogs.jpg)
+  </details>
       
 ## Manual Testing
 
@@ -320,7 +334,9 @@ The form does not submit, and an error is displayed to tell the user that the fi
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/field-req.jpg" width="200">
+The website behaved as expected; an error message was displayed, and the form did not submit.
+
+![field-require](docs/field-req.jpg)
 
 ### Scenario Three - Missing Required Field Last Name
 
@@ -340,7 +356,9 @@ The form does not submit, and an error is displayed to tell the user that the fi
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/field-req.jpg" width="200">
+The website behaved as expected; an error message was displayed, and the form did not submit.
+
+![field-require](docs/field-req.jpg)
 
 ### Scenario Four - Missing Required Field Email
 
@@ -360,7 +378,9 @@ The form does not submit, and an error is displayed to tell the user that the fi
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/field-req.jpg" width="200">
+The website behaved as expected; an error message was displayed, and the form did not submit.<
+
+![field-require](docs/field-req.jpg)
 
 ### Scenario Five - Incorrect email format
 
@@ -380,7 +400,9 @@ The form does not submit, and an error is displayed to tell the user that a vali
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit. <img src="docs/correctemail.jpg" width="200">
+The website behaved as expected; an error message was displayed, and the form did not submit. 
+
+![field-require](docs/field-req.jpg)
 
 
 ## Validator Testing
@@ -388,18 +410,20 @@ The website behaved as expected; an error message was displayed, and the form di
 ### HTML
 [Link to Testing](https://jigsaw.w3.org/css-validator/)
 No errors were found when using the official W3C validator for HTML.
- <img src="docs/w3c-validator.jpg" width="700">
+
+ ![W3C](docs/w3c-validator.jpg)
 
 ### CSS
 
 No errors were found when using the official (Jigsaw) validator for CSS.
- <img src="docs/jigsaw-validator.jpg" width="700">
 
+![JigSaw](docs/jigsaw-validator.jpg)
 
 ## Bugs 
 
 **Issue #1:** With the support and guidance with the communities on slack and from tutors at code institute providing my with all information on how to adjust the images on multi sized screens to fit in the containers. However, on smaller screens these images do present stretched.
- <img src="docs/advice.jpg" width="600">
+
+![advice](docs/advice.jpg)
 
 **Issue #2:** Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which I found from Microsoft word keyboard, with support from my mentor on this project, Gareth Moore, who helped me allow this to work well on smaller screens.
 
@@ -415,7 +439,7 @@ No errors were found when using the official (Jigsaw) validator for CSS.
 * w3schools to remind me throughout on the proper structure/ written code
 * Signup form and redirection page from mentor Gareth McGirr Tacos Travels
 * README image sizes - https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
-  
+
 
 ### Media
 * Photos taken from https://www.freeimages.com
