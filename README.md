@@ -460,7 +460,7 @@ The website behaved as expected; an error message was displayed, and the form di
 
 #### HTML
 [Link to Testing](https://jigsaw.w3.org/css-validator/)
-No errors were found when using the official W3C validator for HTML.
+No errors were found when using the official W3C validator for all HTML, please see images below.
 
  ![W3C](docs/w3c-validator.jpg)
 
