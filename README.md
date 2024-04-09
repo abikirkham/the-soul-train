@@ -1,13 +1,13 @@
 # The Soul Train: Navigating Life with Mindfulness and Meditation :lotus_position_woman:
-<img src="docs/README-images/mockup-p1.jpg" width="700">
+<img src="docs/mockup-p1.jpg" width="700">
 
 ## Contents
 - [My vision](#my-vision)
 - [User Stories](#user-stories)
 - [Wireframes](#wireframes)
 - [Technologies Used](#technologies-used)
-- [Deployment](#deployment)
 - [Features](#features)
+- [Deployment](#deployment)
 - [Testing](#testing)
 - [Bugs](#bugs)
 - [Credits](#credits)
@@ -76,21 +76,105 @@ Welcome to **The Soul Train**, I started Soul Train to help people like me who j
     - As a user looking to reconnect with yoga, I want a user-friendly interface that provides a seamless experience, making it easy to explore classes, schedules, and additional resources.
 
 ## Wireframes
-<img src="docs/README-images/WireframeP1index.jpg" width="300">
-<img src="docs/README-images/WireframeP1about.jpg" width="300">
-<img src="docs/README-images/WireframeP1classes.jpg" width="300">
-<img src="docs/README-images/WireframeP1signup.jpg" width="300">
+<img src="docs/wireframeP1index.jpg" width="300">
+<img src="docs/wireframeP1about.jpg" width="300">
+<img src="docs/wireframeP1classes.jpg" width="300">
+<img src="docs/wireframeP1signup.jpg" width="300">
 
 
 ## Technologies Used
 
-- **HTML5:** I utilised HTML5 to structure my web pages, integrating multimedia elements like images and audio to enhance content presentation and user experience.
+- **HTML:** I utilised HTML5 to structure my web pages, integrating multimedia elements like images and audio to enhance content presentation and user experience.
   
 - **CSS:** I employed CSS to style my HTML documents, specifying visual aspects such as colors, fonts, and layouts to create an aesthetically pleasing and responsive design.
   
 - **GitHub:** I leveraged GitHub as my primary version control system, hosting my code repositories, using push/pull requests and deploying the site.
   
 - **Gitpod/Visual Studio Code (IDE):** I relied on Gitpod or Visual Studio Code as my IDE of choice, utilising their features for writing, debugging, and managing my code efficiently, whether I was working in a cloud-based or desktop environment.
+
+
+# Features
+
+### Favicon
+[The Favicon](https://favicon.io) which is an emoji to associate my website to the content to give this an idetity, as seen below.
+
+![Icon](docs/icon.jpg)![Tab](docs/tab.jpg)
+
+### Home Page
+<details>
+  <summary>Click to expand.</summary>
+Your digital doorway featuring engaging visuals, concise descriptions, and inspirational quotes. The home page aims to pique curiosity and inspire a deeper exploration.
+
+![homepage](docs/homepage.jpg)
+</details>
+
+### About Page :dizzy:
+<details>
+  <summary>Click to expand.</summary>
+Explore the heart of my mission, offering resources like sound healing audio and yoga essentials for an enhanced mindfulness journey.
+<img src="docs/about-us-page.jpg" width="600"></details>
+
+### Class Schedule Page :calendar:
+<details>
+  <summary>Click to expand.</summary>
+Access an updated schedule of yoga, pilates, and meditation classes for active participation and seamless integration into daily routines.
+
+
+<img src="docs/class-schedule.jpg" width="600"></details>
+
+### Blog Page
+<details>
+  <summary>Click to expand.</summary>
+Insightful blogs on mindful eating and crystals provide knowledge and skills to enhance your mindfulness journey.
+
+
+<img src="docs/blog-page.jpg" width="600"></details>
+
+### Contact Page
+<details>
+  <summary>Click to expand.</summary>
+Establish a direct line of communication for personalized guidance, fostering a sense of belonging and support.
+
+
+<img src="docs/signup.jpg" width="600"></details>
+
+# Intricate Features
+
+### Navigation Bar
+<details>
+  <summary>Click to expand.</summary>
+Consistent across all pages, ensuring smooth and intuitive navigation for a seamless user experience. Creating a smooth interaction which can be seen easy on the eyes ... *almost peaceful.*
+<img src="docs/nav-img.jpg" width="600"></details>
+
+### Landing Page
+<details>
+  <summary>Click to expand.</summary>
+A captivating point of entry with visually appealing, simplistic classe timetables, introducing the mission of *The Soul Train*. Creating easy access for those who have accessed the page previosuly and wanted to jump straight to the classes.</details>
+
+### Audio
+<details>
+  <summary>Click to expand.</summary>
+I have added an audio section to the yoga website, offering soothing sound healing sessions, allowing you to experience the calming effects and providing a convenient option for practicing at home.
+<img src="docs/audio.jpg" width="600"></details>
+
+### Club Ethos
+<details>
+  <summary>Click to expand.</summary>
+Outlining the benefits of joining yoga, pilates and medication for beginners, encouraging peacefullness to the soul, joinginh the training journey.</details>
+
+### Meetup Times
+<details>
+  <summary>Click to expand.</summary>
+Crucial and real-time information about the schedules, introductions, and defintions for what each class means.
+<img src="docs/pilates-classes.jpg" width="600">
+<img src="docs/yoga-classes.jpg" width="600">
+<img src="docs/meditation-classes.jpg" width="600"></details>
+
+### Footer
+<details>
+  <summary>Click to expand.</summary>
+Strategically positioned footer, reminding this is for beginners.
+<img src="docs/footer.jpg" width="700"></details>
 
 
 ## Deployment
@@ -124,95 +208,14 @@ This project, *The Soul Train*, is deployed using GitHub pages using the followi
 - Under Source, select the None tab and change it to Main and click Save.
 - Finally once the page resets scroll back down to the GitHub Pages Section to see the following message "Your site is ready to be published at (Link to the GitHub Page Web Address)". It can take time for the link to open your project initially, so please don't be worried if it does not load immediately.
 
-# Features
 
-### Favicon
-[The Favicon](https://favicon.io) which is an emoji to associate my website to the content to give this an idetity, as seen below.
+## Testing
 
-![Icon](docs/README-images/icon.jpg)![Tab](docs/README-images/tab.jpg)
-
-### Home Page
-<details>
-  <summary>Click to expand.</summary>
-Your digital doorway featuring engaging visuals, concise descriptions, and inspirational quotes. The home page aims to pique curiosity and inspire a deeper exploration.
-<img src="docs/README-images/homepage.jpg" width="600"></details>
-
-### About Page :dizzy:
-<details>
-  <summary>Click to expand.</summary>
-Explore the heart of my mission, offering resources like sound healing audio and yoga essentials for an enhanced mindfulness journey.
-<img src="docs/README-images/about-us-page.jpg" width="600"></details>
-
-### Class Schedule Page :calendar:
-<details>
-  <summary>Click to expand.</summary>
-Access an updated schedule of yoga, pilates, and meditation classes for active participation and seamless integration into daily routines.
-<img src="docs/README-images/class-schedule.jpg" width="600"></details>
-
-### Blog Page
-<details>
-  <summary>Click to expand.</summary>
-Insightful blogs on mindful eating and crystals provide knowledge and skills to enhance your mindfulness journey.
-<img src="docs/README-images/blog-page.jpg" width="600"></details>
-
-### Contact Page
-<details>
-  <summary>Click to expand.</summary>
-Establish a direct line of communication for personalized guidance, fostering a sense of belonging and support.
-<img src="docs/README-images/signup.jpg" width="600"></details>
-
-# Intricate Features
-
-### Navigation Bar
-<details>
-  <summary>Click to expand.</summary>
-Consistent across all pages, ensuring smooth and intuitive navigation for a seamless user experience. Creating a smooth interaction which can be seen easy on the eyes ... *almost peaceful.*
-<img src="docs/README-images/Nav-img.jpg" width="600"></details>
-
-### Landing Page
-<details>
-  <summary>Click to expand.</summary>
-A captivating point of entry with visually appealing, simplistic classe timetables, introducing the mission of *The Soul Train*. Creating easy access for those who have accessed the page previosuly and wanted to jump straight to the classes.</details>
-
-### Audio
-<details>
-  <summary>Click to expand.</summary>
-I have added an audio section to the yoga website, offering soothing sound healing sessions, allowing you to experience the calming effects and providing a convenient option for practicing at home.
-<img src="docs/README-images/audio.jpg" width="600"></details>
-
-### Club Ethos
-<details>
-  <summary>Click to expand.</summary>
-Outlining the benefits of joining yoga, pilates and medication for beginners, encouraging peacefullness to the soul, joinginh the training journey.</details>
-
-### Meetup Times
-<details>
-  <summary>Click to expand.</summary>
-Crucial and real-time information about the schedules, introductions, and defintions for what each class means.
-<img src="docs/README-images/pilates-classes.jpg" width="600">
-<img src="docs/README-images/yoga-classes.jpg" width="600">
-<img src="docs/README-images/meditation-classes.jpg" width="600"></details>
-
-### Footer
-<details>
-  <summary>Click to expand.</summary>
-Strategically positioned footer, reminding this is for beginners.
-<img src="docs/README-images/Footer.jpg" width="700"></details>
-
-
-# Testing
-
-## Responsiveness
+### Responsiveness
 
 The Soul Train website was tested for responsiveness on screen sizes from 320px and above, following WCAG 2.1 Reflow criteria for responsive design. The testing was performed on Chrome, Edge, and Opera browsers.
 
-### Testing Steps
-
-1. Open the browser and navigate to The Soul Train.
-2. Access developer tools (right-click and inspect).
-3. Set the view to responsive and reduce the width to 320px.
-4. Zoom out to 50%.
-5. Click and drag the responsive window to maximum width.
+### Capability
 
 ### Expected Results
 
@@ -241,11 +244,11 @@ Utilise the Wave Accessibility tool for ongoing development and final testing. C
 - Below you can see the Lighthouse results for all pages
 <details>
   <summary>Click to expand.</summary>
-  <img src="docs/README-images/lighthouse-home.jpg" width="500">
-  <img src="docs/README-images/lighthouse-about.jpg" width="500">
-  <img src="docs/README-images/lighthouse-classes.jpg" width="500">
-  <img src="docs/README-images/lighthouse-contact.jpg" width="500">
-  <img src="docs/README-images/lighthouse-blogs.jpg" width="500"></details>
+  <img src="docs/lighthouse-home.jpg" width="500">
+  <img src="docs/lighthouse-about.jpg" width="500">
+  <img src="docs/lighthouse-classes.jpg" width="500">
+  <img src="docs/lighthouse-contact.jpg" width="500">
+  <img src="docs/lighthouse-blogs.jpg" width="500"></details>
       
 ## Manual Testing
 
@@ -317,7 +320,7 @@ The form does not submit, and an error is displayed to tell the user that the fi
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/README-images/field-req.jpg" width="200">
+The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/field-req.jpg" width="200">
 
 ### Scenario Three - Missing Required Field Last Name
 
@@ -337,7 +340,7 @@ The form does not submit, and an error is displayed to tell the user that the fi
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/README-images/field-req.jpg" width="200">
+The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/field-req.jpg" width="200">
 
 ### Scenario Four - Missing Required Field Email
 
@@ -357,7 +360,7 @@ The form does not submit, and an error is displayed to tell the user that the fi
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/README-images/field-req.jpg" width="200">
+The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/field-req.jpg" width="200">
 
 ### Scenario Five - Incorrect email format
 
@@ -377,33 +380,33 @@ The form does not submit, and an error is displayed to tell the user that a vali
 
 **Actual:**
 
-The website behaved as expected; an error message was displayed, and the form did not submit. <img src="docs/README-images/correctemail.jpg" width="200">
+The website behaved as expected; an error message was displayed, and the form did not submit. <img src="docs/correctemail.jpg" width="200">
+
+
+## Validator Testing
+
+### HTML
+[Link to Testing](https://jigsaw.w3.org/css-validator/)
+No errors were found when using the official W3C validator for HTML.
+ <img src="docs/w3c-validator.jpg" width="700">
+
+### CSS
+
+No errors were found when using the official (Jigsaw) validator for CSS.
+ <img src="docs/jigsaw-validator.jpg" width="700">
 
 
 ## Bugs 
 
 **Issue #1:** With the support and guidance with the communities on slack and from tutors at code institute providing my with all information on how to adjust the images on multi sized screens to fit in the containers. However, on smaller screens these images do present stretched.
- <img src="docs/README-images/advice.jpg" width="600">
+ <img src="docs/advice.jpg" width="600">
 
 **Issue #2:** Hidden checkboxes and labels for the gallery filter and accordion were inaccessible via keyboard due to the use of `display: none;`. Used for the navigation, including the icons, such as, ☰, which I found from Microsoft word keyboard, with support from my mentor on this project, Gareth Moore, who helped me allow this to work well on smaller screens.
 
 
-# Validator Testing
+## Credits
 
-## HTML
-[Link to Testing](https://jigsaw.w3.org/css-validator/)
-No errors were found when using the official W3C validator for HTML.
- <img src="docs/README-images/w3c-validator.jpg" width="700">
-
-## CSS
-
-No errors were found when using the official (Jigsaw) validator for CSS.
- <img src="docs/README-images/jigsaw-validator.jpg" width="700">
-
-
-# Credits
-
-## Code
+### Code
 * Inspiration from Love Running project provided by Code Institute
 * https://developer.mozilla.org/en-US/docs/Web/CSS/:hover# for hover effect
 * https://www.w3schools.com/css/css_background_image.asp for image as a background image
@@ -414,7 +417,7 @@ No errors were found when using the official (Jigsaw) validator for CSS.
 * README image sizes - https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
   
 
-## Media
+### Media
 * Photos taken from https://www.freeimages.com
 * To create the styles of the background using the images, I used this https://www.sketchbook.com
 * Hosting site for my background img to be a url - https://i.ibb.co/fCGgSKn/yoga-background-img.png
