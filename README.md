@@ -219,6 +219,43 @@ This project, *The Soul Train*, is deployed using GitHub pages using the followi
 
 The Soul Train website was tested for responsiveness on screen sizes from 320px and above, following WCAG 2.1 Reflow criteria for responsive design. The testing was performed on Chrome, Edge, and Opera browsers.
 
+Below are the images to show the responisiveness on all pages, this was done using the extension [Responsive Viewer](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en-GB&utm_source=ext_sidebar) on [Google](https://chromewebstore.google.com/category/extensions?utm_source=ext_sidebar&hl=en-GB).
+
+<details>
+<summary>Click to expand</summary>
+
+### Home
+![Home](docs/home-screen-size.png)
+
+### About
+![About](docs/about-screen-size.png)
+
+### Classes
+![Classes](docs/class-screen-size.png)
+
+### Contact
+![Contact](docs/contact-screen-size.png)
+
+### Blog Home
+![Blog home](docs/blog-home-screen-size.png)
+
+### Blog 1
+![Blog1](docs/blog1-screen-size.png)
+
+### Blog 2
+![Blog2](docs/blog2-screen-size.png)
+
+### Blog 3
+![Blog3](docs/blog3-screen-size.png)
+
+### Blog 4
+![Blog4](docs/blog4-screen-size.png)
+
+### Blog 5
+![Blog5](docs/blog5-screen-size.png)
+
+</details>
+
 ### Capability
 
 ### Expected Results
