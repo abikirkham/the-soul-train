@@ -1,17 +1,6 @@
 # The Soul Train: Navigating Life with Mindfulness and Meditation :lotus_position_woman:
 <img src="docs/mockup-p1.jpg" width="700">
 
-## Contents
-- [My vision](#my-vision)
-- [User Stories](#user-stories)
-- [Wireframes](#wireframes)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Deployment](#deployment)
-- [Testing](#testing)
-- [Bugs](#bugs)
-- [Credits](#credits)
-
 
 ## My Vision
 
@@ -93,7 +82,7 @@ Welcome to **The Soul Train**, I started Soul Train to help people like me who j
 - **Gitpod/Visual Studio Code (IDE):** I relied on Gitpod or Visual Studio Code as my IDE of choice, utilising their features for writing, debugging, and managing my code efficiently, whether I was working in a cloud-based or desktop environment.
 
 
-# Features
+## Features
 
 ### Favicon
 [The Favicon](https://favicon.io) which is an emoji to associate my website to the content to give this an idetity, as seen below.
@@ -141,7 +130,7 @@ Establish a direct line of communication for personalized guidance, fostering a 
 ![contact](docs/signup.jpg)
 </details>
 
-# Intricate Features
+## Intricate Features
 
 ### Navigation Bar
 <details>
@@ -264,7 +253,7 @@ Utilise the Wave Accessibility tool for ongoing development and final testing. C
   ![testing-blogs](docs/lighthouse-blogs.jpg)
   </details>
       
-## Manual Testing
+### Manual Testing
 
 | Function | User Action | Outcome | Result |
 |----------|-------------|---------|--------|
@@ -291,11 +280,11 @@ Utilise the Wave Accessibility tool for ongoing development and final testing. C
 | Timer | Trigger timer functionality when opens the Redirct page | After 10 seconds the page will open the home page without user interaction | Pass |
 
 
-## Form Testing
+### Form Testing
 
 The site was tested for both correct and incorrect inputs for user interactions, covering various scenarios.
 
-### Scenario One - Correct Inputs
+#### Scenario One - Correct Inputs
 
 **Steps to test:**
 
@@ -316,7 +305,7 @@ Form submits with no warnings or errors, and the user is redirected to `thankyou
 
 The website behaved as expected with no errors or warnings and redirected to `thankyou.html`.
 
-### Scenario Two - Missing Required Field First Name
+#### Scenario Two - Missing Required Field First Name
 
 **Steps to test:**
 
@@ -338,7 +327,7 @@ The website behaved as expected; an error message was displayed, and the form di
 
 ![field-require](docs/field-req.jpg)
 
-### Scenario Three - Missing Required Field Last Name
+#### Scenario Three - Missing Required Field Last Name
 
 **Steps to test:**
 
@@ -360,7 +349,7 @@ The website behaved as expected; an error message was displayed, and the form di
 
 ![field-require](docs/field-req.jpg)
 
-### Scenario Four - Missing Required Field Email
+#### Scenario Four - Missing Required Field Email
 
 **Steps to test:**
 
@@ -382,7 +371,7 @@ The website behaved as expected; an error message was displayed, and the form di
 
 ![field-require](docs/field-req.jpg)
 
-### Scenario Five - Incorrect email format
+#### Scenario Five - Incorrect email format
 
 **Steps to test:**
 
@@ -405,15 +394,15 @@ The website behaved as expected; an error message was displayed, and the form di
 ![field-require](docs/field-req.jpg)
 
 
-## Validator Testing
+### Validator Testing
 
-### HTML
+#### HTML
 [Link to Testing](https://jigsaw.w3.org/css-validator/)
 No errors were found when using the official W3C validator for HTML.
 
  ![W3C](docs/w3c-validator.jpg)
 
-### CSS
+#### CSS
 
 No errors were found when using the official (Jigsaw) validator for CSS.
 
