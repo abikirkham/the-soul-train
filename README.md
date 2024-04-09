@@ -258,7 +258,7 @@ Below are the images to show the responisiveness on all pages, this was done usi
 
 ### Capability
 
-The project has been tested for compatibility with the following browsers:
+The project has been tested for compatibility with the following browsers using this site. Unfortunately the trail on my account would not cover macOS which is why the images may look different:
 
 - Google Chrome (Version 122)
 - Edge (Version 122)
@@ -283,8 +283,8 @@ Below are the images shown to prove these tests.
 #### Opera
 ![opera](docs/opera108.png)
 
-#### macOS Sonoma 16.5
-![macOS](docs/macos16-5)
+#### macOS Sonoma 16.1
+![macOS](docs/macos16-1.png)
 
 </details>
 
