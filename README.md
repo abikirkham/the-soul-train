@@ -143,7 +143,10 @@ Consistent across all pages, ensuring smooth and intuitive navigation for a seam
 ### Landing Page
 <details>
   <summary>Click to expand.</summary>
-A captivating point of entry with visually appealing, simplistic classe timetables, introducing the mission of *The Soul Train*. Creating easy access for those who have accessed the page previosuly and wanted to jump straight to the classes.</details>
+A captivating point of entry with visually appealing, simplistic classe timetables, introducing the mission of *The Soul Train*. Creating easy access for those who have accessed the page previosuly and wanted to jump straight to the classes.
+
+![homepage](docs/homepage.jpg)
+</details>
 
 ### Audio
 <details>
@@ -156,7 +159,7 @@ I have added an audio section to the yoga website, offering soothing sound heali
 ### Club Ethos
 <details>
   <summary>Click to expand.</summary>
-Outlining the benefits of joining yoga, pilates and medication for beginners, encouraging peacefullness to the soul, joinginh the training journey.</details>
+Outlining the benefits of joining yoga, pilates and medication for beginners, encouraging peacefullness to the soul, participating the spiritual journey.</details>
 
 ### Meetup Times
 <details>
