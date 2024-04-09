@@ -73,13 +73,13 @@ Welcome to **The Soul Train**, I started Soul Train to help people like me who j
 
 ## Technologies Used
 
-- **HTML:** I utilised HTML5 to structure my web pages, integrating multimedia elements like images and audio to enhance content presentation and user experience.
+- [**HTML:**](https://en.wikipedia.org/wiki/HTML) I utilised HTML5 to structure my web pages, integrating multimedia elements like images and audio to enhance content presentation and user experience.
   
-- **CSS:** I employed CSS to style my HTML documents, specifying visual aspects such as colors, fonts, and layouts to create an aesthetically pleasing and responsive design.
+- [**CSS:**](https://en.wikipedia.org/wiki/CSS) I employed CSS to style my HTML documents, specifying visual aspects such as colors, fonts, and layouts to create an aesthetically pleasing and responsive design.
   
-- **GitHub:** I leveraged GitHub as my primary version control system, hosting my code repositories, using push/pull requests and deploying the site.
+- [**GitHub:**](https://en.wikipedia.org/wiki/GitHub) I leveraged GitHub as my primary version control system, hosting my code repositories, using push/pull requests and deploying the site.
   
-- **Gitpod/Visual Studio Code (IDE):** I relied on Gitpod or Visual Studio Code as my IDE of choice, utilising their features for writing, debugging, and managing my code efficiently, whether I was working in a cloud-based or desktop environment.
+- [**Gitpod**](https://www.gitpod.io/)[**/Visual Studio Code (IDE):**](https://code.visualstudio.com/) I relied on Gitpod or Visual Studio Code as my IDE of choice, utilising their features for writing, debugging, and managing my code efficiently, whether I was working in a cloud-based or desktop environment.
 
 
 ## Features
