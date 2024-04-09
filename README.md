@@ -359,7 +359,7 @@ The form does not submit, and an error is displayed to tell the user that the fi
 
 The website behaved as expected; an error message was displayed, and the form did not submit.<img src="docs/README-images/field-req.jpg" width="200">
 
-### Scenario Six - Incorrect email format
+### Scenario Five - Incorrect email format
 
 **Steps to test:**
 
