@@ -419,3 +419,5 @@ No errors were found when using the official (Jigsaw) validator for CSS.
 * To create the styles of the background using the images, I used this https://www.sketchbook.com
 * Hosting site for my background img to be a url - https://i.ibb.co/fCGgSKn/yoga-background-img.png
 * Audio taken from https://stock.adobe.com/uk/search/audio?k=356526657 
+
+*This is for educational purposes only*
