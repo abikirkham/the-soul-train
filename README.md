@@ -1,4 +1,5 @@
 # The Soul Train: Navigating Life with Mindfulness and Meditation :lotus_position_woman:
+
 <img src="docs/mockup-p1.jpg" width="700">
 
 
@@ -291,7 +292,7 @@ Below are the images shown to prove these tests.
 
 ## Accessibility
 
-Utilise the Wave Accessibility tool for ongoing development and final testing. Concentrate on the following criteria:
+By utilising the Wave Accessibility tool for ongoing development and final testing, used for the below:
 
 1. Ensure all forms have associated labels or appropriate aria-labels.
 2. Validate that color contrasts meet the minimum ratios outlined in WCAG 2.1 Contrast Guidelines.
@@ -459,16 +460,46 @@ The website behaved as expected; an error message was displayed, and the form di
 ### Validator Testing
 
 #### HTML
-[Link to Testing](https://jigsaw.w3.org/css-validator/)
+[Link to HTML Testing](https://validator.w3.org/)
+
 No errors were found when using the official W3C validator for all HTML, please see images below.
 
- ![W3C](docs/w3c-validator.jpg)
+**Home**
+ ![W3C](docs/jigsaw-home.png)
+
+ **About**
+  ![W3C](docs/jigsaw-about.png)
+
+ **Classes**
+  ![W3C](docs/jigsaw-classes.png)
+
+ **Contact**
+  ![W3C](docs/jigsaw-contact.png)
+
+ **Blog Home**
+  ![W3C](docs/jigsaw-blog-home.png)
+
+ **Blog1**
+  ![W3C](docs/jigsaw-blog1.png)
+
+ **Blog2**
+  ![W3C](docs/jigsaw-blog2.png)
+
+ **Blog3**
+  ![W3C](docs/jigsaw-blog3.png)
+
+ **Blog4**
+  ![W3C](docs/jigsaw-blog4.png)
+
+ **Blog5**
+  ![W3C](docs/jigsaw-blog5.png)
 
 #### CSS
+[Link to CSS Testing](https://jigsaw.w3.org/css-validator/)
 
-No errors were found when using the official (Jigsaw) validator for CSS.
+No errors were found when using the official (Jigsaw) validator for CSS. As all HTML are using the same CSS, there is only one test required. 
 
-![JigSaw](docs/jigsaw-validator.jpg)
+![JigSaw](docs/w3c.jpg)
 
 ## Bugs 
 
