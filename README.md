@@ -465,7 +465,7 @@ The website behaved as expected; an error message was displayed, and the form di
 No errors were found when using the official W3C validator for all HTML, please see images below.
 
 **Home**
- ![W3C](docs/jigsaw-home.png)
+ ![W3C](docs/jigsaw-home.jpg)
 
  **About**
   ![W3C](docs/jigsaw-about.png)
