@@ -62,6 +62,7 @@ header {
 
 #logo:hover {
     color: #bf879e;
+    cursor: pointer;
 }
 
 /* Navigation Styles */
@@ -89,6 +90,7 @@ nav a {
 
 nav a:hover {
     color: #407861;
+    cursor: pointer;
 }
 
 /* Dropdown menu styles */
@@ -105,6 +107,7 @@ nav a:hover {
 
 .toggle:hover {
     color: #bf879e;
+    cursor: pointer;
 }
 
 .toggle-label a {
@@ -160,10 +163,12 @@ h2 a {
 
 h2 a:hover {
     color: #bf879e;
+    cursor: pointer;
 }
 
 h3 a:hover {
     color: #bf879e;
+    cursor: pointer;
 }
 
 h3 a {
@@ -176,6 +181,7 @@ p a {
 
 p a:hover {
     color: #bf879e;
+    cursor: pointer;
 }
 
 /* Remove underline for links with class 'no-underline' */
@@ -210,6 +216,7 @@ p a:hover {
 
 .button:hover {
     background-color: #bf879e;
+    cursor: pointer;
 }
 
 /* Container Styles */
@@ -241,6 +248,7 @@ p a:hover {
 .container2 h1 a:hover {
     text-align: center;
     color: #bf879e;
+    cursor: pointer;
 }
 
 /* classes containers*/
@@ -320,6 +328,7 @@ form button a {
 
 form button:hover a {
     background-color: #bf879e;
+    cursor: pointer;
 }
 
 /*image styles on class page*/
